@@ -1,0 +1,39 @@
+ASR
+Corpora
+Cross-lingual
+Data Sets
+Dictionary/lexicon
+Morphological Analyzer
+NER
+NLP Tools
+Parsers
+PoS
+Text Classification
+Translation
+WordNets/ontology/taxonomy
+language model
+BLI
+Discorse
+OCR
+Phonological Analyzer
+QnA
+Spelling and Grammar
+Text-to-Speech
+Hate Speech Detection
+IE
+LangID
+Sentiment Analyzer
+Tokenizer
+Transliteration
+text classification
+Semantic Similarity
+Summarizing
+mis-info detection
+Coreference
+News/SM Reccomendation
+Semantic (Other)
+Stemming
+inference
+text generation
+Intent Detection
+Multiple Tasks
