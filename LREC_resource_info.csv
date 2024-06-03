@@ -1,0 +1,121 @@
+lang class,year,data,code,model
+0,2016,used others' data,based-on/modified someone's code,didnt use model
+0,2016,introduce new data,based-on/modified someone's code,didnt use model
+0,2018,data not needed,cant determine,didnt use model
+0,2018,introduce new data,did not use code,didnt use model
+0,2018,data not needed,based-on/modified someone's code,didnt use model
+0,2018,introduce new data,did not use code,didnt use model
+0,2018,introduce new data,based-on/modified someone's code,didnt use model
+0,2020,data not needed,based-on/modified someone's code,didnt use model
+0,2020,used others' but introduce their own part,based-on/modified someone's code,didnt use model
+0,2020,introduce new data,based-on/modified someone's code,didnt use model
+0,2020,introduce new data,based-on/modified someone's code,didnt use model
+0,2020,introduce new data,based-on/modified someone's code,used someone's model but trained theirs as well
+0,2020,introduce new data,based-on/modified someone's code,
+0,2020,introduce new data,based-on/modified someone's code,
+0,2020,data not needed,based-on/modified someone's code,
+0,2020,introduce new data,wrote their own code,
+0,2020,introduce new data,based-on/modified someone's code,
+0,2022,used others' but introduce their own part,wrote their own code,didnt use model
+0,2022,introduce new data,used someone's code,used someon'e model
+0,2022,introduce new data,used someone's code,used someone's model but trained theirs as well
+1,2016,used others' but introduce their own part,did not use code,didnt use model
+1,2016,used others' but introduce their own part,based-on/modified someone's code,didnt use model
+1,2016,data not needed,based-on/modified someone's code,didnt use model
+1,2016,introduce new data,based-on/modified someone's code,didnt use model
+1,2016,introduce new data,based-on/modified someone's code,didnt use model
+1,2016,introduce new data,did not use code,didnt use model
+1,2020,introduce new data,based-on/modified someone's code,didnt use model
+1,2020,introduce new data,based-on/modified someone's code,didnt use model
+1,2020,introduce new data,based-on/modified someone's code,didnt use model
+1,2020,used others' data,did not use code,didnt use model
+1,2020,used others' but introduce their own part,based-on/modified someone's code,didnt use model
+1,2020,used others' but introduce their own part,used someone's code,used someon'e model
+1,2020,used others' but introduce their own part,cant determine,didnt use model
+1,2022,introduce new data,build new code and use others' as well,didnt use model
+1,2022,introduce new data,used someone's code,didnt use model
+1,2022,introduce new data,build new code and use others' as well,used someone's model but trained theirs as well
+1,2022,introduce new data,based-on/modified someone's code,didnt use model
+1,2022,used others' data,based-on/modified someone's code,used someon'e model
+1,2022,introduce new data,cant determine,trained their own model
+1,2022,introduce new data,based-on/modified someone's code,didnt use model
+2,2016,used others' but introduce their own part,based-on/modified someone's code,didnt use model
+2,2016,introduce new data,did not use code,didnt use model
+2,2016,used others' but introduce their own part,based-on/modified someone's code,didnt use model
+2,2016,used others' but introduce their own part,based-on/modified someone's code,didnt use model
+2,2016,introduce new data,did not use code,didnt use model
+2,2016,introduce new data,build new code and use others' as well,didnt use model
+2,2020,used others' data,based-on/modified someone's code,didnt use model
+2,2020,introduce new data,based-on/modified someone's code,didnt use model
+2,2020,used others' but introduce their own part,build new code and use others' as well,trained their own model
+2,2020,introduce new data,based-on/modified someone's code,didnt use model
+2,2020,used others' but introduce their own part,used someone's code,used someone's model but trained theirs as well
+2,2020,used others' but introduce their own part,wrote their own code,didnt use model
+2,2020,introduce new data,based-on/modified someone's code,didnt use model
+2,2022,introduce new data,based-on/modified someone's code,trained their own model
+2,2022,introduce new data,did not use code,didnt use model
+2,2022,introduce new data,wrote their own code,didnt use model
+2,2022,introduce new data,build new code and use others' as well,didnt use model
+2,2022,introduce new data,used someone's code,used someon'e model
+2,2022,introduce new data,based-on/modified someone's code,didnt use model
+2,2022,introduce new data,used someone's code,used someone's model but trained theirs as well
+3,2016,introduce new data,used someone's code,didnt use model
+3,2016,introduce new data,based-on/modified someone's code,didnt use model
+3,2016,introduce new data,based-on/modified someone's code,didnt use model
+3,2016,introduce new data,based-on/modified someone's code,didnt use model
+3,2016,data not needed,cant determine,didnt use model
+3,2016,cant determine,based-on/modified someone's code,didnt use model
+3,2016,extended soneone's data,did not use code,didnt use model
+3,2020,introduce new data,used someone's code,didnt use model
+3,2020,extended soneone's data,wrote their own code,didnt use model
+3,2020,data not needed,did not use code,didnt use model
+3,2020,used others' data,based-on/modified someone's code,didnt use model
+3,2020,introduce new data,based-on/modified someone's code,used someon'e model
+3,2020,used others' data,based-on/modified someone's code,didnt use model
+3,2022,data not needed,did not use code,didnt use model
+3,2022,introduce new data,based-on/modified someone's code,didnt use model
+3,2022,introduce new data,build new code and use others' as well,trained their own model
+3,2022,used others' but introduce their own part,based-on/modified someone's code,didnt use model
+3,2022,introduce new data,wrote their own code,didnt use model
+3,2022,introduce new data,build new code and use others' as well,didnt use model
+3,2022,extended soneone's data,used someone's code,used someon'e model
+4,2016,used others' data,wrote their own code,didnt use model
+4,2016,used others' but introduce their own part,cant determine,didnt use model
+4,2016,introduce new data,wrote their own code,didnt use model
+4,2016,used others' but introduce their own part,based-on/modified someone's code,cant determine
+4,2016,introduce new data,did not use code,didnt use model
+4,2016,introduce new data,used someone's code,didnt use model
+4,2016,introduce new data,did not use code,didnt use model
+4,2020,extended soneone's data,based-on/modified someone's code,used someon'e model
+4,2020,extended soneone's data,used someone's code,didnt use model
+4,2020,data not needed,did not use code,didnt use model
+4,2020,introduce new data,based-on/modified someone's code,didnt use model
+4,2020,used others' data,build new code and use others' as well,didnt use model
+4,2020,introduce new data,build new code and use others' as well,didnt use model
+4,2020,introduce new data,wrote their own code,didnt use model
+4,2022,introduce new data,build new code and use others' as well,used someon'e model
+4,2022,introduce new data,based-on/modified someone's code,used someon'e model
+4,2022,used others' data,based-on/modified someone's code,used someon'e model
+4,2022,introduce new data,based-on/modified someone's code,used someon'e model
+4,2022,used others' but introduce their own part,based-on/modified someone's code,didnt use model
+4,2022,introduce new data,did not use code,didnt use model
+5,2016,used others' but introduce their own part,based-on/modified someone's code,didnt use model
+5,2016,used others' data,used someone's code,didnt use model
+5,2016,introduce new data,used someone's code,didnt use model
+5,2016,used others' data,build new code and use others' as well,didnt use model
+5,2016,used others' data,based-on/modified someone's code,didnt use model
+5,2016,introduce new data,did not use code,didnt use model
+5,2016,introduce new data,build new code and use others' as well,didnt use model
+5,2020,used others' but introduce their own part,used someone's code,didnt use model
+5,2020,used others' data,used someone's code,didnt use model
+5,2020,used others' but introduce their own part,build new code and use others' as well,didnt use model
+5,2020,extended soneone's data,based-on/modified someone's code,didnt use model
+5,2020,used others' but introduce their own part,based-on/modified someone's code,didnt use model
+5,2020,data not needed,wrote their own code,didnt use model
+5,2022,used others' data,cant determine,used someon'e model
+5,2022,introduce new data,wrote their own code,used someon'e model
+5,2022,introduce new data,based-on/modified someone's code,used someon'e model
+5,2022,introduce new data,build new code and use others' as well,didnt use model
+5,2022,introduce new data,build new code and use others' as well,didnt use model
+5,2022,introduce new data,wrote their own code,didnt use model
+5,2022,introduce new data,based-on/modified someone's code,used someon'e model

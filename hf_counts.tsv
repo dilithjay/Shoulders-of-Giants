@@ -1,0 +1,2044 @@
+Language	ISO code	Datasets	Models
+English English	en	7596	34392
+Chinese 中文	zh	901	3433
+French Français	fr	812	3144
+Spanish Español	es	635	2440
+Russian Русский	ru	601	1712
+German Deutsch	de	601	2569
+Japanese 日本語	ja	455	2012
+Portuguese Português	pt	451	1328
+Korean 한국어	ko	388	1816
+Arabic اللغة العربية	ar	381	1204
+Italian Italiano	it	379	1475
+Vietnamese Tiếng Việt	vi	341	881
+Polish język polski	pl	309	911
+Hindi हिन्दी	hi	299	1074
+Dutch Nederlands	nl	295	1059
+Indonesian Bahasa Indonesia	id	288	901
+Turkish Türkçe	tr	287	1060
+Bengali বাংলা	bn	237	655
+Swedish Svenska	sv	235	968
+Thai ไทย	th	232	697
+Catalan Català	ca	231	639
+Czech čeština	cs	214	607
+Danish dansk	da	212	629
+Finnish suomi	fi	207	865
+Romanian Română	ro	206	705
+Persian فارسی	fa	204	659
+Tamil தமிழ்	ta	192	593
+Hungarian magyar	hu	189	572
+Ukrainian Українська	uk	188	668
+Greek Ελληνικά	el	174	561
+Telugu తెలుగు	te	169	498
+Slovenian slovenski jezik	sl	167	491
+Malay Bahasa Malaysia	ms	158	482
+Bulgarian български език	bg	156	554
+Urdu اردو	ur	149	559
+Malayalam മലയാളം	ml	149	510
+Slovak slovenčina	sk	148	436
+Marathi मराठी	mr	146	532
+Hebrew עברית	he	143	493
+Estonian eesti	et	142	526
+Croatian Hrvatski	hr	141	413
+Norwegian Norsk	no	136	533
+Basque euskara	eu	135	465
+Swahili Kiswahili	sw	131	517
+Gujarati ગુજરાતી	gu	131	487
+Serbian српски језик	sr	128	456
+Lithuanian lietuvių kalba	lt	127	440
+Latvian latviešu valoda	lv	123	382
+Kannada ಕನ್ನಡ	kn	122	456
+Indonesian	ind	119	20
+Panjabi ਪੰਜਾਬੀ	pa	112	450
+Icelandic Íslenska	is	108	496
+Maltese Malti	mt	106	283
+Nepali नेपाली	ne	100	434
+Afrikaans Afrikaans	af	99	418
+Galician galego	gl	98	438
+Tagalog Wikang Tagalog	tl	98	354
+Oriya ଓଡ଼ିଆ	or	97	280
+Sinhala සිංහල	si	96	373
+Albanian Shqip	sq	95	321
+Irish Gaeilge	ga	92	298
+Armenian Հայերեն	hy	90	379
+Norwegian Bokmål Norsk bokmål	nb	89	187
+Amharic አማርኛ	am	88	398
+Kazakh қазақ тілі	kk	88	378
+Welsh Cymraeg	cy	86	394
+Esperanto Esperanto	eo	86	296
+Yoruba Yorùbá	yo	85	383
+Assamese অসমীয়া	as	84	390
+Burmese ဗမာစာ	my	83	398
+Khmer ខេមរភាសា	km	82	356
+Georgian ქართული	ka	81	411
+Macedonian македонски јазик	mk	80	394
+Belarusian беларуская мова	be	79	391
+Azerbaijani azərbaycan dili	az	79	342
+Hausa هَوُسَ	ha	76	365
+Uzbek Ўзбек	uz	74	314
+Igbo Asụsụ Igbo	ig	71	274
+Kyrgyz Кыргызча	ky	70	257
+Kinyarwanda Ikinyarwanda	rw	69	209
+Norwegian Nynorsk Norsk nynorsk	nn	69	234
+Mongolian Монгол хэл	mn	68	423
+Latin latine	la	66	300
+Somali Soomaaliga	so	64	330
+Javanese basa Jawa	jv	64	282
+Cebuano	ceb	64	178
+Pashto پښتو	ps	63	301
+Xhosa isiXhosa	xh	63	327
+Breton brezhoneg	br	62	237
+Zulu isiZulu	zu	60	244
+Tatar татар теле	tt	59	195
+Kurdish Kurdî	ku	59	185
+Tajik тоҷикӣ	tg	59	241
+Uyghur ئۇيغۇرچە‎	ug	58	148
+Lao ພາສາ	lo	58	326
+Bosnian bosanski jezik	bs	57	272
+Ganda Luganda	lg	57	197
+English	eng	55	150
+Central Kurdish	ckb	54	72
+Sindhi सिन्धी	sd	54	295
+Luxembourgish Lëtzebuergesch	lb	54	265
+Minangkabau	min	54	71
+Asturian	ast	53	83
+Yue Chinese	yue	52	134
+Western Frisian Frysk	fy	52	210
+Scottish Gaelic Gàidhlig	gd	52	233
+Sanskrit संस्कृतम्	sa	51	238
+Occitan occitan	oc	51	204
+Twi Twi	tw	50	128
+Yiddish ייִדיש	yi	50	262
+Wolof Wollof	wo	50	191
+Tibetan བོད་ཡིག	bo	49	178
+Sundanese Basa Sunda	su	49	310
+Bashkir башҡорт теле	ba	48	207
+Haitian Kreyòl ayisyen	ht	48	272
+Turkmen Türkmen	tk	48	161
+Pedi	nso	48	139
+Faroese føroyskt	fo	47	183
+Maithili	mai	47	72
+Shona chiShona	sn	47	296
+Divehi Dhivehi	dv	46	133
+Guaraní Avañe'ẽ	gn	46	96
+Tswana Setswana	tn	45	163
+Chichewa chiCheŵa	ny	44	213
+Achinese	ace	42	59
+Chuvash чӑваш чӗлхи	cv	42	63
+Yakut саха тыла	sah	42	33
+Bambara bamanankan	bm	42	139
+Kabyle	kab	42	52
+Māori te reo Māori	mi	41	213
+Interlingua Interlingua	ia	41	31
+Buginese	bug	41	43
+Malagasy fiteny malagasy	mg	40	287
+Tigrinya ትግርኛ	ti	40	108
+Iloko	ilo	40	94
+Southern Sotho Sesotho	st	39	185
+Lingala Lingála	ln	39	261
+Waray (Philippines)	war	39	89
+Egyptian Arabic	arz	37	63
+Upper Sorbian	hsb	37	20
+Banjar	bjn	37	46
+Eastern Mari олык марий	mhr	36	5
+Venetian	vec	36	61
+Santali	sat	36	53
+Quechua Runa Simi	qu	36	276
+Tsonga Xitsonga	ts	35	149
+Low German	nds	35	18
+Afar Afaraf	aa	35	148
+Romansh rumantsch grischun	rm	35	42
+Limburgish Limburgs	li	34	52
+South Azerbaijani	azb	34	45
+Friulian	fur	33	45
+Oromo Afaan Oromoo	om	33	124
+Javanese	jav	33	5
+Kirundi Ikirundi	rn	33	163
+Balinese	ban	33	58
+Sardinian sardu	sc	33	52
+Crimean Tatar	crh	33	60
+Abkhaz аҧсуа бызшәа	ab	33	93
+Ligurian	lij	32	46
+Sicilian	scn	32	59
+Ido Ido	io	32	22
+Lombard	lmo	31	47
+Sundanese	sun	31	3
+Silesian	szl	31	46
+Akan Akan	ak	31	150
+Aragonese aragonés	an	30	48
+Tosk Albanian	als	30	47
+Ossetian ирон æвзаг	os	29	42
+Tok Pisin	tpi	29	52
+Latgalian	ltg	29	59
+Fon	fon	29	148
+Papiamento	pap	29	71
+Ewe Eʋegbe	ee	28	98
+Walloon walon	wa	28	30
+Chamorro Chamoru	ch	28	45
+Volapük Volapük	vo	28	16
+Samoan gagana fa'a Samoa	sm	28	134
+Northern Kurdish	kmr	28	47
+Cornish Kernewek	kw	27	27
+Marathi	mar	27	48
+Lojban	jbo	27	4
+Pangasinan	pag	27	71
+Chechen нохчийн мотт	ce	27	54
+Erzya эрзянь кель	myv	27	26
+Nigerian Pidgin	pcm	26	52
+Manipuri	mni	26	65
+Swati SiSwati	ss	26	87
+Kashmiri कश्मीरी	ks	26	71
+Kikuyu Gĩkũyũ	ki	26	120
+Tumbuka	tum	26	110
+Pampanga	pam	26	19
+Western Panjabi	pnb	26	15
+Wu Chinese	wuu	25	4
+Piemontese	pms	24	15
+Scots	sco	24	23
+Luo (Kenya and Tanzania)	luo	24	57
+Corsican corsu	co	24	82
+Kongo Kikongo	kg	24	74
+Dzongkha རྫོང་ཁ	dz	24	74
+Bhojpuri	bho	24	59
+Interlingue Interlingue	ie	24	5
+Goan Konkani	gom	23	28
+Tuvinian	tyv	23	24
+Hawaiian	haw	23	144
+Kashubian	csb	23	3
+Kabiyè	kbp	23	58
+Neapolitan	nap	23	4
+Western Mari	mrj	23	18
+Shan	shn	23	58
+Swahili (individual language)	swh	23	44
+Lower Sorbian	dsb	23	5
+Manx Gaelg	gv	22	36
+Portuguese	por	22	8
+Newari	new	22	29
+Kamba (Kenya)	kam	22	48
+Madurese	mad	22	15
+Kabardian Адыгэбзэ КIахэ	kbd	21	29
+Aymara aymar aru	ay	21	40
+Moksha	mdf	21	17
+Karachay-Balkar	krc	21	21
+Rusyn	rue	21	4
+Bihari भोजपुरी	bh	21	18
+Sango yângâ tî sängö	sg	21	86
+Tamil	tam	21	8
+Min Nan Chinese	nan	21	4
+Russia Buriat	bxr	21	8
+Bavarian	bar	21	17
+Fijian Vakaviti	fj	21	84
+Chavacano	cbk	21	17
+Hindi	hin	21	6
+Umbundu	umb	21	53
+Old English (ca. 450-1100)	ang	21	18
+Mingrelian	xmf	21	4
+Hausa	hau	21	30
+Mirandese	mwl	20	4
+Mossi	mos	20	75
+Northern Frisian	frr	20	2
+Filipino	fil	20	56
+Moroccan Arabic	ary	20	52
+Bemba (Zambia)	bem	20	56
+Venda Tshivenḓa	ve	20	28
+Vlaams	vls	20	5
+Dyula	dyu	20	59
+Russian	rus	20	15
+Fula Fulfulde	ff	20	61
+Awadhi	awa	20	57
+Udmurt удмурт кыл	udm	20	17
+French	fra	20	9
+Mazanderani	mzn	20	4
+Xhosa	xho	19	11
+Spanish	spa	19	8
+Central Bikol	bcl	19	17
+Central Atlas Tamazight	tzm	19	44
+Amharic	amh	19	14
+Afrikaans	afr	19	7
+Avaric авар мацӀ	av	19	45
+Standard Moroccan Tamazight	zgh	19	4
+Tetum	tet	19	17
+Ayacucho Quechua	quy	19	56
+Bishnupriya	bpy	19	9
+Kölsch	ksh	19	3
+Kabuverdianu	kea	19	54
+Bengali	ben	19	5
+Hakka Chinese	hak	19	3
+Cherokee	chr	19	17
+Zulu	zul	18	30
+Northern Sami Davvisámegiella	se	18	30
+Yoruba	yor	18	34
+Dimli (individual language)	diq	18	5
+Japanese	jpn	18	9
+Komi коми кыв	kv	18	30
+Kara-Kalpak	kaa	18	31
+Italian	ita	18	8
+Veps	vep	18	3
+Tonga faka Tonga	to	18	30
+Kinyarwanda	kin	18	11
+Korean	kor	18	6
+Kalmyk	xal	18	20
+Malayalam	mal	18	5
+Literary Chinese 文言	lzh	17	17
+Ladino	lad	17	4
+Urdu	urd	17	6
+Odia	ory	17	46
+Hakha Chin	cnh	17	21
+Kannada	kan	17	6
+Jamaican Creole English	jam	17	17
+Iranian Persian	pes	17	41
+Komi-Permyak	koi	17	17
+Extremaduran	ext	17	3
+Navajo Diné bizaad	nv	17	20
+Bislama Bislama	bi	17	42
+Gujarati	guj	17	5
+Romanian	ron	17	6
+Lezghian	lez	17	3
+Lingua Franca Nova	lfn	16	3
+Dutch	nld	16	6
+Panjabi	pan	16	5
+German	deu	16	7
+Inuktitut ᐃᓄᒃᑎᑐᑦ	iu	16	18
+Wayuu	guc	16	17
+Nepali (individual language)	npi	16	45
+Gan Chinese	gan	16	2
+Thai	tha	16	5
+Picard	pcd	16	3
+North Azerbaijani	azj	16	46
+Kalaallisut kalaallisut	kl	16	21
+Tsonga	tso	16	1
+Igbo	ibo	16	30
+Mandarin Chinese	cmn	16	4
+Vietnamese	vie	16	8
+Zeeuws	zea	15	4
+Tetun Dili	tdt	15	3
+Chhattisgarhi	hne	15	57
+Lushai	lus	15	68
+Gorontalo	gor	15	15
+Livvi	olo	15	2
+Nyanja	nya	15	9
+Novial	nov	15	1
+Gilaki	glk	15	3
+Swiss German	gsw	15	23
+Gagauz	gag	15	17
+Arpitan	frp	15	16
+Gothic	got	15	3
+Dotyali	dty	15	2
+Dari	prs	15	43
+Luba-Lulua	lua	15	57
+Pennsylvania German	pdc	15	4
+Tamasheq	taq	15	46
+Swedish	swe	14	11
+Fiji Hindi	hif	14	19
+Bodo (India)	brx	14	24
+Standard Malay	zsm	14	41
+Serbian	srp	14	5
+Magahi	mag	14	57
+Hungarian	hun	14	6
+Ganda	lug	14	31
+Telugu	tel	14	5
+Turkish	tur	14	6
+Tunisian Arabic	aeb	14	42
+Mon	mnw	14	15
+Southern Pashto	pbt	14	43
+Sranan Tongo	srn	14	26
+Polish	pol	14	10
+Kimbundu	kmb	14	59
+Macedo-Romanian	rup	14	3
+Plateau Malagasy	plt	14	43
+Saraiki	skr	14	15
+Somali	som	14	7
+Burmese	mya	14	6
+Danish	dan	14	7
+Min Dong Chinese	cdo	14	2
+K'iche'	quc	14	16
+Levantine Arabic	apc	14	42
+Chokwe	cjk	14	59
+Eastern Yiddish	ydd	14	41
+Old Church Slavonic ѩзыкъ словѣньскъ	cu	14	7
+Northern Luri	lrc	14	16
+Pfaelzisch	pfl	13	4
+Vlax Romani	rmy	13	1
+Hebrew	heb	13	6
+Tagalog	tgl	13	6
+Chinese	zho	13	3
+Khmer	khm	13	5
+Standard Latvian	lvs	13	41
+Avestan avesta	ae	13	29
+Nigerian Fulfulde	fuv	13	41
+Tswana	tsn	13	25
+Arabic	ara	13	6
+Tahitian Reo Tahiti	ty	13	15
+Kachin	kac	13	58
+Southwestern Dinka	dik	13	43
+Samogitian	sgs	13	3
+Southern Sotho	sot	13	4
+Saterfriesisch	stq	13	17
+Creek	mus	12	1
+Kekchí	kek	12	16
+Tulu	tcy	12	17
+Mesopotamian Arabic	acm	12	42
+Zhuang Saɯ cueŋƅ	za	12	27
+Croatian	hrv	12	6
+Modern Greek (1453-)	ell	12	6
+Norwegian Bokmål	nob	12	44
+Pāli पाऴि	pi	12	2
+Dinka	din	12	16
+Central Aymara	ayr	12	41
+Võro	vro	12	3
+West Central Oromo	gaz	12	43
+Venda	ven	12	3
+Ukrainian	ukr	12	7
+Kirghiz	kir	12	5
+Cree ᓀᐦᐃᔭᐍᐏᐣ	cr	12	11
+Kaqchikel	cak	12	17
+Persian	fas	12	6
+Catalan	cat	12	7
+Northern Uzbek	uzn	12	41
+Toki Pona	tok	12	4
+Twi	twi	12	25
+Lithuanian	lit	12	5
+Nuer	nus	12	44
+Bulgarian	bul	12	6
+Sanskrit	san	12	2
+Lao	lao	11	6
+Wolof	wol	11	31
+Finnish	fin	11	7
+Central Kanuri	knc	11	41
+Halh Mongolian	khk	11	41
+Assamese	asm	11	5
+Malay (individual language)	zlm	11	1
+Bosnian	bos	11	5
+Inupiaq Iñupiaq	ik	11	4
+Belarusian	bel	11	5
+Mam	mam	11	16
+Lak	lbe	11	1
+Najdi Arabic	ars	11	42
+Tajik	tgk	11	5
+Lingala	lin	11	6
+Ladin	lld	11	1
+Assyrian Neo-Aramaic	aii	11	2
+Choctaw	cho	11	1
+Hiligaynon	hil	11	25
+Marshallese Kajin M̧ajeļ	mh	11	39
+Slovak	slk	11	7
+Slovenian	slv	11	6
+Czech	ces	11	7
+Bambara	bam	11	25
+Kanuri Kanuri	kr	11	33
+Occitan (post 1500)	oci	10	5
+Nuosu ꆈꌠ꒿ Nuosuhxop	ii	10	4
+Swahili (macrolanguage)	swa	10	31
+Georgian	kat	10	5
+Icelandic	isl	10	6
+Macedonian	mkd	10	5
+Batak Toba	bbc	10	15
+Soninke	snk	10	1
+Swati	ssw	10	1
+Ancient Greek (to 1453)	grc	10	51
+Galician	glg	10	6
+Ta'izzi-Adeni Arabic	acq	10	42
+Shona	sna	10	10
+Votic	vot	10	4
+Armenian	hye	10	6
+Konkani (macrolanguage)	kok	10	3
+Haitian	hat	10	2
+Fanti	fat	10	1
+Irish	gle	10	6
+Oriya (macrolanguage)	ori	10	2
+Adyghe Адыгэбзэ Къэбэрдей	ady	10	16
+Welsh	cym	10	5
+Akan	aka	9	1
+Kwanyama Kuanyama	kj	9	22
+Jèrriais	nrf	9	1
+Hiri Motu Hiri Motu	ho	9	25
+Nauru Ekakairũ Naoero	na	9	7
+Ndonga Owambo	ng	9	5
+Uzbek	uzb	9	5
+Tibetan	bod	9	2
+Mapudungun	arn	9	15
+Amis	ami	9	1
+Nyankole	nyn	9	4
+Maori	mri	9	5
+Kikuyu	kik	9	1
+Western Armenian	hyw	9	3
+Acoli	ach	9	17
+Tigrinya	tir	9	3
+Basa (Cameroon)	bas	9	20
+Oromo	orm	9	8
+Adangme	ada	9	15
+Nias	nia	9	15
+South Ndebele	nbl	9	1
+Teso	teo	9	15
+Maltese	mlt	9	8
+Northern Sami	sme	9	6
+Karelian	krl	9	1
+Tigre	tig	9	1
+Swampy Cree	csw	9	1
+Esperanto	epo	9	2
+Algerian Arabic	arq	9	2
+Cusco Quechua	quz	9	1
+Tachelhit	shi	9	1
+Klingon	tlh	9	15
+Kazakh	kaz	9	6
+Eastern Tamang	taj	9	15
+Huastec	hus	9	15
+Pijin	pis	8	28
+Kadazan Dusun	dtp	8	15
+Nepali (macrolanguage)	nep	8	2
+Southern Altai	alt	8	15
+Estonian	est	8	6
+Malay (macrolanguage)	msa	8	5
+Luxembourgish	ltz	8	5
+Nyungwe	nyu	8	15
+Yiddish	yid	8	2
+Kurdish	kur	8	1
+Masaaba	myx	8	1
+Lango (Uganda)	laj	8	15
+Ewe	ewe	8	24
+Bislama	bis	8	1
+Soga	xog	8	1
+Latin	lat	8	4
+Hmong	hmn	8	66
+Undetermined	und	8	41
+Yanesha'	ame	8	1
+Zarma	dje	8	15
+Norwegian Nynorsk	nno	8	4
+Cashibo-Cacataibo	cbr	8	1
+Sindhi	snd	8	13
+Naasioi	nas	7	1
+Ghomálá'	bbj	7	24
+Margos-Yarowilca-Lauricocha Quechua	qvm	7	1
+Yucateco	yua	7	17
+Old Russian	orv	7	3
+Highland Oaxaca Chontal	chd	7	2
+Scottish Gaelic	gla	7	2
+Montenegrin	cnr	7	4
+Huallaga Huánuco Quechua	qub	7	15
+Kamano	kbq	7	1
+Shuar	jiv	7	15
+Old French (842-ca. 1400)	fro	7	6
+Uighur	uig	7	6
+Mamara Senoufo	myk	7	2
+Nehan	nsn	7	1
+Betawi	bew	7	14
+Asháninka	cni	7	15
+Guerrero Amuzgo	amu	7	15
+Khakas	kjh	7	15
+Faroese	fao	7	3
+Fulah	ful	7	3
+South Tairora	omw	7	1
+Farefare	gur	7	1
+Norwegian	nor	7	2
+Tonga (Zambia)	toi	7	12
+Dogri (macrolanguage)	doi	7	8
+Krio	kri	7	15
+Huamalíes-Dos de Mayo Huánuco Quechua	qvh	7	1
+Makasar	mak	7	15
+Albanian	sqi	7	2
+Liv	liv	7	1
+Ngaju	nij	7	15
+Kanite	kmu	7	1
+Alamblak	amp	6	1
+Lahu	lhu	6	15
+Awa (Papua New Guinea)	awb	6	1
+Rotokas	roo	6	1
+Binumarien	bjr	6	1
+Central Mazahua	maz	6	16
+Gapapaiwa	pwg	6	1
+Aguaruna	agr	6	15
+Nzima	nzi	6	15
+Ewondo	ewo	6	1
+Coptic	cop	6	16
+Romany	rom	6	15
+Chuukese	chk	6	22
+Southern Dagaare	dga	6	1
+Kagayanen	cgc	6	1
+Luvale	lue	6	13
+Mískito	miq	6	15
+Amri Karbi	ajz	6	1
+Seselwa Creole French	crs	6	28
+Ticuna	tca	6	15
+Lozi	loz	6	14
+Palauan	pau	6	15
+Pular	fuf	6	1
+Yapese	yap	6	22
+Gusii	guz	6	1
+Turkana	tuv	6	1
+Lunda	lun	6	6
+Baluchi	bal	6	2
+Middle French (ca. 1400-1600)	frm	6	1
+Garifuna	cab	6	15
+Purepecha	tsz	6	1
+Papantla Totonac	top	6	1
+North Tanna	tnn	6	1
+Tojolabal	toj	6	15
+Nyoro	nyo	6	1
+Western Niger Fulfulde	fuh	6	1
+Ditammari	tbz	6	15
+American Sign Language	ase	6	10
+Western Frisian	fry	6	13
+Mi'kmaq	mic	6	1
+Latvian	lav	6	6
+Mongolian	mon	6	5
+Eastern Apurímac Quechua	qve	6	1
+Pohnpeian	pon	6	27
+Achuar-Shiwiar	acu	6	1
+Kotava	avk	6	1
+Standard Arabic	arb	6	1
+Southwest Tanna	nwi	6	1
+Arammba	stk	6	1
+Ga	gaa	6	16
+Kenga	kyq	6	1
+Ojibwa	oji	6	1
+Miahuatlán Zapotec	zam	6	1
+Ojibwe ᐊᓂᔑᓈᐯᒧᐎᓐ	oj	6	16
+Bisu	bzi	6	2
+Huichol	hch	6	2
+Mitla Zapotec	zaw	6	1
+Sango	sag	6	1
+Akha	ahk	6	15
+Baatonum	bba	6	1
+Zaza	zza	6	15
+Benabena	bef	6	1
+Pipil	ppl	6	1
+Breton	bre	6	2
+Huba	hbb	6	1
+Kenyang	ken	6	1
+Kâte	kmg	6	1
+Saposa	sps	6	1
+Arosi	aia	6	1
+Kaonde	kqn	6	12
+Mezquital Otomi	ote	6	1
+Tase Naga	nst	6	1
+Masbatenyo	msb	6	15
+Suba	sxb	6	1
+Whitesands	tnp	6	1
+Sinhala	sin	6	2
+Dedua	ded	6	1
+Zacatlán-Ahuacatlán-Tepetzintla Nahuatl	nhi	6	1
+Sidamo	sid	6	1
+Mamasa	mqj	6	1
+Morisyen	mfe	6	22
+Pushto	pus	6	5
+Akoose	bss	6	1
+Kamasau	kms	6	1
+Niuean	niu	6	14
+Turkmen	tuk	6	2
+Tatar	tat	6	3
+Mambae	mgm	6	1
+Guianese Creole French	gcr	6	1
+Tiéyaxo Bozo	boz	6	1
+Komi-Zyrian	kpv	6	1
+Western Juxtlahuaca Mixtec	jmx	6	1
+Talysh	tly	6	1
+Central Huasteca Nahuatl	nch	6	1
+Shipibo-Conibo	shp	6	15
+Kwaio	kwd	6	1
+Alur	alz	6	15
+Central Sama	sml	6	1
+Khasi	kha	6	15
+Basque	eus	6	3
+Q'anjob'al	kjb	6	2
+Jarai	jra	6	2
+Tzotzil	tzo	6	18
+Obolo	ann	6	15
+Konzo	koo	6	1
+Inoke-Yate	ino	6	1
+Gun	guw	6	16
+Lambayeque Quechua	quf	6	15
+S'gaw Karen	ksw	6	15
+Halia	hla	6	1
+Cajamarca Quechua	qvc	5	15
+Koonzime	ozm	5	1
+Chimborazo Highland Quichua	qug	5	1
+Dzongkha	dzo	5	1
+Chachi	cbi	5	1
+Panao Huánuco Quechua	qxh	5	1
+Malagasy	mlg	5	4
+Candoshi-Shapra	cbu	5	1
+Totontepec Mixe	mto	5	1
+Amarakaeri	amr	5	1
+Kven Finnish	fkv	5	1
+Kamwe	hig	5	2
+Awa-Cuaiquer	kwi	5	15
+Hunsrik	hrx	5	3
+Mumuye	mzm	5	1
+Tzeltal	tzh	5	15
+Balkan Romani	rmn	5	1
+Metlatónoc Mixtec	mxv	5	1
+Central Mnong	cmo	5	1
+Matal	mfh	5	1
+Bora	boa	5	1
+Hmong Njua	hnj	5	1
+Makonde	kde	5	1
+Efik	efi	5	15
+Serbo-Croatian	hbs	5	6
+Ixil	ixl	5	1
+Fijian	fij	5	1
+Southern Kurdish	sdh	5	1
+Xiang Chinese	hsn	5	1
+Siona	snn	5	1
+Colorado	cof	5	1
+Orizaba Nahuatl	nlv	5	1
+Chukot	ckt	5	1
+Gonja	gjn	5	1
+Adamawa Fulfulde	fub	5	1
+Ottoman Turkish (1500-1928)	ota	5	1
+Nyemba	nba	5	1
+Meta'	mgo	5	1
+Arabela	arl	5	1
+Makasae	mkz	5	1
+Adhola	adh	5	15
+Paraguayan Guaraní	gug	5	1
+South Bolivian Quechua	quh	5	15
+Inari Sami	smn	5	1
+Wolaytta	wal	5	19
+Cashinahua	cbs	5	1
+Guerrero Nahuatl	ngu	5	16
+Syriac	syr	5	14
+Northern Conchucos Ancash Quechua	qxn	5	1
+Makhuwa	vmw	5	1
+Kasem	xsm	5	1
+Yagua	yad	5	1
+Ndonga	ndo	5	1
+Fataluku	ddg	5	1
+Sharanahua	mcd	5	1
+Napo Lowland Quechua	qvo	5	1
+Urarina	ura	5	1
+Guarayu	gyr	5	1
+Páez	pbb	5	2
+Digo	dig	5	1
+Rundi	run	5	14
+Yao	yao	5	1
+Mundani	mnf	5	1
+Bini	bin	5	1
+Lashi	lsi	5	1
+Susu	sus	5	15
+Bafut	bfd	5	1
+Sos Kundi	sdk	5	1
+Ido	ido	5	2
+Caribbean Hindustani	hns	5	1
+Tharaka	thk	5	1
+Gronings	gos	5	30
+Markweeta	enb	5	1
+Chamorro	cha	5	1
+Karamojong	kdj	5	1
+Southern Ndebele isiNdebele	nr	5	22
+Falam Chin	cfm	5	15
+Matsés	mcf	5	1
+Baoulé	bci	5	18
+Serer	srr	5	15
+Samoan	smo	5	1
+Middle English (1100-1500)	enm	5	1
+Wa	wbm	5	1
+Eastern Huasteca Nahuatl	nhe	5	15
+Lhomi	lhm	5	1
+Interlingua (International Auxiliary Language Association)	ina	5	2
+Huaylas Ancash Quechua	qwh	5	1
+Ntcham	bud	5	1
+Pichis Ashéninka	cpu	5	1
+Duruma	dug	5	1
+Pamona	pmf	5	1
+Narom	nrm	5	2
+Chayahuita	cbt	5	1
+Toma	tod	5	1
+Rarotongan	rar	5	1
+Classical Syriac	syc	5	1
+Warlpiri	wbp	5	1
+Pokomo	pkb	5	1
+Manado Malay	xmm	5	14
+Ngombale	nla	5	1
+Toba	tob	5	1
+Eastern Maroon Creole	djk	5	15
+Guinea Kpelle	gkp	5	1
+Walloon	wln	5	2
+Aja (Benin)	ajg	5	1
+Tiv	tiv	5	25
+Ndzwani Comorian	wni	5	1
+Kashmiri	kas	5	7
+Caquinte	cot	5	1
+Southern Balochi	bcc	5	1
+Bulu (Cameroon)	bum	5	15
+Hre	hre	5	1
+Limbum	lmp	5	1
+Gilbertese	gil	5	27
+Idoma	idu	5	1
+Murui Huitoto	huu	5	1
+Tedim Chin	ctd	5	1
+Tonga (Tonga Islands)	ton	5	2
+Nomatsiguenga	not	5	1
+Maru	mhx	5	1
+Isthmus-Mecayapan Nahuatl	nhx	5	1
+Uduk	udu	5	1
+Apurinã	apu	5	1
+Ese Ejja	ese	5	1
+Chol	ctu	5	15
+Jinyu Chinese	cjy	5	1
+North Junín Quechua	qvn	5	1
+Secoya	sey	5	1
+Mundurukú	myu	5	1
+Waorani	auc	5	1
+Yemba	ybb	5	1
+West Ambae	nnd	5	3
+Mbyá Guaraní	gun	5	1
+Northwestern Ojibwa	ojb	5	1
+Kituba (Democratic Republic of Congo)	ktu	4	15
+Classical Nahuatl	nci	4	2
+Manx	glv	4	2
+Western Huasteca Nahuatl	nhw	4	1
+Multiple languages	mul	4	2
+Bashkir	bak	4	2
+Western Bukidnon Manobo	mbb	4	1
+Tahitian	tah	4	1
+Marshallese	mah	4	1
+Chuvash	chv	4	2
+Emilian	egl	4	3
+Congo Swahili	swc	4	12
+Guarani	grn	4	2
+Imbabura Highland Quichua	qvi	4	15
+Interlingue	ile	4	2
+Chopi	cce	4	15
+Abkhazian	abk	4	1
+Khoekhoe	naq	4	1
+Guambiano	gum	4	1
+Maore Comorian	swb	4	2
+Boko (Benin)	bqc	4	15
+Zande (individual language)	zne	4	25
+Saramaccan	srm	4	15
+Hiri Motu	hmo	4	1
+Ayutla Mixtec	miy	4	1
+Timne	tem	4	1
+Kongo	kon	4	1
+Navajo	nav	4	2
+Tachawit	shy	4	1
+Batak Karo	btx	4	15
+Ingrian	izh	4	1
+Limburgan	lim	4	2
+San Marcos Tlacoyalco Popoloca	pls	4	1
+Uspanteco	usp	4	1
+Tohono O'odham	ood	4	1
+Tswa	tsc	4	15
+Poqomchi'	poh	4	1
+Ojitlán Chinantec	chj	4	1
+Belize Kriol English	bzj	4	15
+Akeu	aeu	4	1
+Ao Naga	njo	4	1
+Laz	lzz	4	1
+Shilluk	shk	4	1
+Azerbaijani	aze	4	13
+Gilyak	niv	4	1
+Romansh	roh	4	2
+Prussian	prg	4	1
+Duala	dua	4	1
+Jola-Fonyi	dyo	4	1
+Evenki	evn	4	1
+Northern Yukaghir	ykg	4	1
+Upper Guinea Crioulo	pov	4	1
+Mufian	aoj	4	1
+Old Norse	non	4	1
+Swabian	swg	4	1
+Volapük	vol	4	2
+Tena Lowland Quichua	quw	4	1
+Kuanyama	kua	4	1
+Matu Chin	hlt	4	1
+Buriat	bua	4	17
+Standard Estonian	ekk	4	1
+Sãotomense	cri	4	1
+Guadeloupean Creole French	gcf	4	1
+Tooro	ttj	4	1
+Sena	seh	4	15
+Shuswap	shs	4	1
+Ambo-Pasco Quechua	qva	4	1
+Ibibio	ibb	4	14
+Camsá	kbh	4	2
+Ngäbere	gym	4	15
+Mohawk	moh	4	1
+Classical Armenian	xcl	4	1
+Isthmus Zapotec	zai	4	4
+Ranglong	rnl	4	1
+Barasana-Eduria	bsn	4	1
+Northern Kissi	kqs	4	1
+Motu	meu	4	15
+Ancient Hebrew	hbo	4	2
+Xavánte	xav	4	1
+Corsican	cos	4	2
+Kosraean	kos	4	15
+Mende (Sierra Leone)	men	4	1
+Sukuma	suk	4	1
+Tem	kdh	4	1
+Bribri	bzd	4	2
+Sardinian	srd	4	2
+Tz'utujil	tzj	4	15
+Northeastern Dinka	dip	4	1
+North Moluccan Malay	max	4	1
+Rapanui	rap	4	2
+Saamia	lsm	4	1
+Pulaar	fuc	4	1
+Gulf Arabic	afb	4	1
+Iban	iba	4	15
+Enawené-Nawé	unk	4	816
+Skolt Sami	sms	4	1
+Quiotepec Chinantec	chq	4	1
+Sunwar	suz	4	15
+Kapingamarangi	kpg	4	1
+Huautla Mazatec	mau	4	1
+Mahasu Pahari	bfz	4	1
+Dadibi	mps	4	15
+Quechua	que	4	2
+Eastern Canadian Inuktitut	ike	4	1
+Akawaio	ake	4	1
+Kuanua	ksd	4	15
+San Blas Kuna	cuk	4	15
+Male (Ethiopia)	mdy	4	1
+Middle High German (ca. 1050-1500)	gmh	4	2
+Kwangali	kwn	4	4
+Shor	cjs	4	1
+Tarifit	rif	4	1
+Makhuwa-Meetto	mgh	4	15
+Coatlán Mixe	mco	4	1
+Moba	mfq	4	1
+Lobi	lob	4	1
+Ainu (Japan)	ain	4	15
+Herero	her	4	1
+Yaqui	yaq	4	1
+Nenets	yrk	4	1
+Tetelcingo Nahuatl	nhg	4	1
+Northern Puebla Nahuatl	ncj	4	1
+Lakota	lkt	4	1
+Murrinh-Patha	mwf	4	1
+Southern Sami	sma	4	2
+Huli	hui	4	15
+Mutu	tuc	4	15
+Kela (Democratic Republic of Congo)	kel	4	1
+Ossetian	oss	4	2
+Waama	wwa	4	1
+Dhivehi	div	4	2
+Ngazidja Comorian	zdj	4	2
+Kalaallisut	kal	4	1
+Moro	mor	4	1
+Gitonga	toh	4	1
+Gungu	rub	4	1
+West-Central Limba	lia	4	1
+Talossan	tzl	4	1
+Achi	acr	4	1
+Plains Cree	crk	4	1
+Highland Puebla Nahuatl	azz	4	2
+Even	eve	4	1
+Yucuna	ycn	3	1
+Western Tlacolula Valley Zapotec	zab	3	1
+Kakabai	kqf	3	1
+Sa'a	apb	3	1
+Takia	tbc	3	1
+Quenya	qya	3	1
+Highland Totonac	tos	3	1
+Anindilyakwa	aoi	3	1
+Yessan-Mayo	yss	3	1
+Jamiltepec Mixtec	mxt	3	1
+Teribe	tfr	3	1
+Tonga (Nyasa)	tog	3	1
+Usan	wnu	3	1
+Western Highland Chatino	ctp	3	1
+Ronga	rng	3	1
+Ajyíninka Apurucayali	cpc	3	1
+Baruya	byr	3	1
+Guayabero	guo	3	1
+Tandroy-Mahafaly Malagasy	tdx	3	15
+Koyraboro Senni Songhai	ses	3	1
+Binukid	bkd	3	1
+Estado de México Otomi	ots	3	1
+Coatecas Altas Zapotec	zca	3	1
+Waris	wrs	3	1
+Gourmanchéma	gux	3	1
+Umanakaina	gdn	3	1
+Ngangam	gng	3	1
+Anmatyerre	amx	3	1
+Afrihili	afh	3	1
+Maasina Fulfulde	ffm	3	15
+Orokaiva	okv	3	1
+Kumyk	kum	3	15
+Wiru	wiu	3	1
+Nali	nss	3	1
+Somba-Siawari	bmu	3	1
+Mengen	mee	3	1
+Torres Strait Creole	tcs	3	1
+Sichuan Yi	iii	3	1
+Kriol	rop	3	1
+Mangseng	mbh	3	1
+Tinputz	tpz	3	1
+Kein	bmh	3	1
+Burarra	bvr	3	1
+Sierra de Juárez Zapotec	zaa	3	1
+Southeastern Tepehuan	stp	3	1
+Central Okinawan	ryu	3	1
+Dhangu-Djangu	dhg	3	1
+Gwahatike	dah	3	1
+Southern Carrier	caf	3	1
+Zigula	ziw	3	1
+Sabaot	spy	3	1
+Kurti	ktm	3	1
+Guyanese Creole English	gyn	3	14
+Thado Chin	tcz	3	1
+Buamu	box	3	1
+Juquila Mixe	mxq	3	1
+Buhutu	bxh	3	1
+Takwane	tke	3	1
+Dobu	dob	3	1
+Enga	enq	3	14
+Tacana	tna	3	1
+Koongo	kng	3	1
+Bokobaru	bus	3	15
+Yine	pib	3	1
+Northern Emberá	emp	3	15
+Kwoma	kmo	3	1
+Chuave	cjv	3	1
+East Kewa	kjs	3	1
+Waffa	waj	3	1
+Obo Manobo	obo	3	1
+Cerma	cme	3	1
+Southern Kisi	kss	3	1
+Yareba	yrb	3	1
+Biangai	big	3	9
+Maranao	mrw	3	15
+Sarangani Blaan	bps	3	1
+Kyenele	kql	3	1
+'Auhelawa	kud	3	1
+Kube	kgf	3	1
+Maiadomu	mzz	3	1
+Korafe-Yegha	kpr	3	1
+Ono	ons	3	1
+Usarufa	usa	3	1
+Gamo	gmv	3	1
+Swedish Sign Language	swl	3	1
+Piratapuyo	pir	3	1
+Tereno	ter	3	1
+Palantla Chinantec	cpa	3	1
+Iatmul	ian	3	1
+Mekeo	mek	3	1
+Nyindrou	lid	3	1
+San Miguel El Grande Mixtec	mig	3	1
+Aguacateco	agu	3	1
+Arapaho	arp	3	1
+Makaa	mcp	3	1
+Koronadal Blaan	bpr	3	1
+Dawawa	dww	3	1
+Pamplona Atta	att	3	1
+Lenje	leh	3	1
+Maung	mph	3	1
+Siroi	ssd	3	1
+Dangaléat	daa	3	1
+Lamba	lam	3	1
+Yakan	yka	3	1
+Bukiyip	ape	3	15
+Sakalava Malagasy	skg	3	1
+Francisco León Zoque	zos	3	1
+Kwamera	tnk	3	1
+Mandinka	mnk	3	1
+Tanimuca-Retuarã	tnc	3	1
+Kuot	kto	3	1
+Yau (Morobe Province)	yuw	3	1
+Logudorese Sardinian	src	3	1
+Matigsalug Manobo	mbt	3	15
+Guanano	gvc	3	2
+Ghayavi	bmk	3	1
+Gwichʼin	gwi	3	1
+Maiwa (Papua New Guinea)	mti	3	1
+Wik-Mungkan	wim	3	1
+Sinaugoro	snc	3	1
+Kaluli	bco	3	1
+Biak	bhw	3	1
+Bo-Ung	mux	3	1
+Diuxi-Tilantongo Mixtec	xtd	3	1
+Meru	mer	3	1
+Wichí Lhamtés Güisnay	mzh	3	1
+Migabac	mpp	3	1
+Arop-Lokep	apr	3	1
+Ndamba	ndj	3	1
+Are	mwc	3	1
+Kanasi	soq	3	1
+Bariai	bch	3	1
+Zaiwa	atb	3	1
+Huehuetla Tepehua	tee	3	1
+Tewe	twx	3	1
+Kaingang	kgp	3	1
+Yatzachi Zapotec	zav	3	1
+Maskelynes	klv	3	1
+Algonquin	alq	3	1
+Nsenga	nse	3	1
+Chayuco Mixtec	mih	3	1
+Chiquitano	cax	3	1
+Imbongu	imo	3	1
+Pinotepa Nacional Mixtec	mio	3	1
+Ashéninka Pajonal	cjo	3	1
+Misima-Panaeati	mpx	3	1
+Mbunda	mck	3	1
+Patep	ptp	3	1
+Huaylla Wanca Quechua	qvw	3	1
+Usila Chinantec	cuc	3	1
+Kupsabiny	kpz	3	1
+Lewo	lww	3	1
+Masai	mas	3	15
+Kirmanjki (individual language)	kiu	3	1
+Paite Chin	pck	3	15
+Tewa (USA)	tew	3	1
+Yaouré	yre	3	1
+West Kewa	kew	3	1
+Temuan	tmw	3	1
+Nukna	klt	3	1
+Madak	mmx	3	1
+Muyang	muy	3	1
+Highland Popoluca	poi	3	1
+Chuwabu	chw	3	1
+Kwere	cwe	3	1
+Southern Subanen	laa	3	1
+San Juan Atzingo Popoloca	poe	3	1
+Aneme Wake	aby	3	1
+Dhao	nfa	3	1
+Southeast Ambrym	tvk	3	1
+Ignaciano	ign	3	1
+Bambam	ptu	3	1
+Western Arrarnta	are	3	1
+Yalunka	yal	3	1
+Siyin Chin	csy	3	1
+Siane	snp	3	1
+Molima	mox	3	1
+Kunimaipa	kup	3	1
+Anjam	boj	3	1
+Réunion Creole French	rcf	3	15
+Coyutla Totonac	toc	3	1
+Ogea	eri	3	1
+Sio	xsi	3	1
+Qaqet	byx	3	1
+Fasu	faa	3	1
+Kalam	kmh	3	1
+Yaweyuha	yby	3	1
+Machiguenga	mcb	3	1
+Agutaynen	agn	3	1
+Okpe (Southwestern Edo)	oke	3	1
+Yalálag Zapotec	zpu	3	1
+Gumatj	gnn	3	1
+Urat	urt	3	1
+Potawatomi	pot	3	1
+Jewish Babylonian Aramaic (ca. 200-1200 CE)	tmr	3	1
+Mende (Papua New Guinea)	sim	3	1
+Balangao	blw	3	1
+Xicotepec De Juárez Totonac	too	3	1
+Tsishingini	tsw	3	1
+Copala Triqui	trc	3	1
+Tagabawa	bgs	3	1
+Peñoles Mixtec	mil	3	1
+Kayabí	kyz	3	1
+Agusan Manobo	msm	3	15
+Bimoba	bim	3	15
+Parauk	prk	3	15
+Aruamu	msy	3	1
+Sarangani Manobo	mbs	3	1
+Chuj	cac	3	15
+Chinook jargon	chn	3	1
+Lukpa	dop	3	1
+Cajonos Zapotec	zad	3	1
+Zoogocho Zapotec	zpq	3	1
+Ninzo	nin	3	1
+Southern Puebla Mixtec	mit	3	1
+Tuvalu	tvl	3	26
+Caribbean Javanese	jvn	3	15
+Nopala Chatino	cya	3	1
+Sangir	sxn	3	15
+Kuman (Papua New Guinea)	kue	3	1
+North Bolivian Quechua	qul	3	1
+Chiquihuitlán Mazatec	maq	3	2
+Northern Tepehuan	ntp	3	1
+Inabaknon	abx	3	1
+Bugawac	buk	3	1
+Cavineña	cav	3	1
+Pele-Ata	ata	3	1
+Ayautla Mazatec	vmy	3	1
+Ocotlán Zapotec	zac	3	1
+Sepik Iwam	iws	3	1
+Sadri	sck	3	1
+North Ndebele	nde	3	1
+Guahibo	guh	3	15
+Northwest Alaska Inupiatun	esk	3	1
+Anuki	aui	3	1
+Hote	hot	3	1
+Keapara	khz	3	1
+Haruai	tmd	3	1
+Urim	uri	3	1
+Sumerian	sux	3	1
+Tuyuca	tue	3	1
+Southern Pastaza Quechua	qup	3	15
+Nyakyusa-Ngonde	nyy	3	1
+Safeyoka	apz	3	1
+Sindarin	sjn	3	1
+Popti'	jac	3	15
+Borei	gai	3	1
+Tepeuxila Cuicatec	cux	3	1
+Paumarí	pad	3	1
+Querétaro Otomi	otq	3	15
+Macushi	mbc	3	1
+Ho	hoc	3	1
+Hmong Daw	mww	3	1
+Alekano	gah	3	1
+Tuma-Irumu	iou	3	1
+Rohingya	rhg	3	1
+Dehu	dhv	3	1
+Kayapó	txu	3	1
+Djambarrpuyngu	djr	3	1
+Urhobo	urh	3	1
+Chácobo	cao	3	1
+Old Aramaic (up to 700 BCE)	oar	3	1
+Lowland Tarahumara	tac	3	1
+Old Spanish	osp	3	1
+Kwara'ae	kwf	3	1
+Igede	ige	3	1
+Aymara	aym	3	2
+Waimaha	bao	3	1
+Teutila Cuicatec	cut	3	1
+Kara (Papua New Guinea)	leu	3	1
+Tagal Murut	mvv	3	1
+Epena	sja	3	16
+Mankanya	knf	3	1
+Tepetotutla Chinantec	cnt	3	1
+Waima	rro	3	1
+Mwani	wmw	3	1
+Northern Kankanay	xnn	3	1
+Mokole	mkl	3	1
+Busa	bqp	3	1
+Limos Kalinga	kmk	3	1
+Tungag	lcm	3	1
+Uripiv-Wala-Rano-Atchin	upv	3	1
+Karbi	mjw	3	1
+Maca	mca	3	1
+Uab Meto	aoz	3	1
+Dano	aso	3	1
+Ngulu	ngp	3	1
+Pogolo	poy	3	1
+Láadan	ldn	3	1
+Eastern Arrernte	aer	3	1
+Saint Lucian Creole French	acf	3	15
+Wipi	gdr	3	1
+Malinaltepec Me'phaa	tcf	3	1
+Yombe	yom	3	1
+Abau	aau	3	1
+Guajajára	gub	3	15
+Northern Oaxaca Nahuatl	nhy	3	1
+Parecís	pab	3	1
+Yaminahua	yaa	3	1
+Maxakalí	mbl	3	1
+Buglere	sab	3	1
+Hamer-Banna	amf	3	1
+Akukem	spm	3	1
+Kyaka	kyc	3	1
+Brithenig	bzt	3	1
+Dungan	dng	3	1
+Khana	ogo	3	1
+Iwal	kbm	3	1
+Gokana	gkn	3	1
+Siksika	bla	3	1
+Minaveha	mvn	3	1
+Tezoatlán Mixtec	mxb	3	1
+Kaiwá	kgk	3	1
+Tenharim	pah	3	1
+Fanamaket	bjp	3	1
+Northeastern Thai	tts	3	1
+Central Bontok	lbk	3	1
+Chechen	che	3	2
+Southeastern Puebla Nahuatl	npl	3	1
+Iamalele	yml	3	1
+Texmelucan Zapotec	zpz	3	1
+Naro	nhr	3	1
+Chichicapan Zapotec	zpv	3	1
+Agarabi	agd	3	1
+Ipili	ipi	3	1
+Suau	swp	3	1
+Rakhine	rki	3	14
+Mian	mpt	3	1
+Daga	dgz	3	1
+Ozumacín Chinantec	chz	3	1
+Amganad Ifugao	ifa	3	1
+Timugon Murut	tih	3	1
+Magdalena Peñasco Mixtec	xtm	3	1
+Mauwake	mhl	3	1
+Southern Nambikuára	nab	3	1
+Olo	ong	3	1
+Mambwe-Lungu	mgr	3	1
+Pitjantjatjara	pjt	3	1
+Central Tarahumara	tar	3	1
+Chipaya	cap	3	1
+Galela	gbi	3	1
+Aklanon	akl	3	1
+Upper Necaxa Totonac	tku	3	1
+Tlachichilco Tepehua	tpt	3	1
+Mape	mlh	3	1
+Mbula	mna	3	1
+Beaver	bea	3	1
+Tsikimba	kdl	3	1
+Carpathian Romani	rmc	3	15
+Yopno	yut	3	1
+Border Kuna	kvn	3	1
+Amele	aey	3	1
+Mbuko	mqb	3	1
+Ama (Papua New Guinea)	amm	3	1
+Old Frisian	ofs	3	1
+Zapotec	zap	3	14
+Melpa	med	3	1
+Umbu-Ungu	ubu	3	15
+Cacua	cbv	3	2
+Gheg Albanian	aln	3	1
+Noone	nhu	3	1
+Kisar	kje	3	1
+Kosarek Yale	kkl	3	1
+Takuu	nho	3	1
+Tifal	tif	3	1
+Nogai	nog	3	15
+Mountain Koiali	kpx	3	1
+Palikúr	plu	3	1
+Edolo	etr	3	1
+Izii	izz	3	15
+Alyawarr	aly	3	1
+Bine	bon	3	1
+Nyamwanga	mwn	3	1
+Karkar-Yuri	yuj	3	1
+Amanab	amn	3	1
+Western Kanjobal	knj	3	15
+Samberigi	ssx	3	1
+Timbe	tim	3	1
+Chiga	cgg	3	1
+Ata Manobo	atd	3	1
+Carapana	cbc	3	1
+Girawa	bbr	3	1
+Mansaka	msk	3	1
+Borong	ksr	3	1
+Central Tunebo	tuf	3	1
+Tucano	tuo	3	1
+Nakanai	nak	3	1
+Ika	ikk	3	1
+Marik	dad	3	1
+Kouya	kyf	3	1
+Saliba	sbe	3	1
+Barai	bbb	3	1
+Tataltepec Chatino	cta	3	1
+Chortí	caa	3	1
+Uri	uvh	3	1
+Sea Island Creole English	gul	3	1
+Lealao Chinantec	cle	3	1
+Laari	ldi	3	1
+Suena	sue	3	1
+Kamula	xla	3	1
+Ucayali-Yurúa Ashéninka	cpb	3	1
+Rikbaktsa	rkb	3	1
+Spanish Sign Language	ssp	3	3
+Mbukushu	mhw	3	1
+Helong	heg	3	1
+Songe	sop	3	1
+Manam	mva	3	1
+Kaninuwa	wat	3	1
+Garhwali	gbm	3	15
+Cubeo	cub	3	1
+Mopán Maya	mop	3	1
+Ibanag	ibg	3	1
+Yongbei Zhuang	zyb	3	1
+Dawro	dwr	3	15
+Hdi	xed	3	1
+Minica Huitoto	hto	3	1
+Southern Conchucos Ancash Quechua	qxo	3	1
+Nimoa	nmw	3	1
+Kankanaey	kne	3	1
+Kutu	kdc	3	1
+Uare	ksj	3	1
+Faiwol	fai	3	1
+Carrier	crx	3	1
+Kriang	ngt	3	1
+Kasua	khs	3	1
+Chumburung	ncu	3	1
+Kadiwéu	kbc	3	1
+Muyuw	myw	3	1
+Lachixío Zapotec	zpl	3	1
+Hopi	hop	3	1
+Mixtepec Zapotec	zpm	3	1
+Karajá	kpj	3	1
+Nande	nnb	3	15
+Awara	awx	3	1
+Nadëb	mbj	3	1
+Tatuyo	tav	3	2
+Manchu	mnc	3	1
+Jalapa De Díaz Mazatec	maj	3	1
+Plautdietsch	pdt	3	1
+Bumbita Arapesh	aon	3	1
+Nunggubuyu	nuy	3	1
+Sulka	sua	3	1
+Mangga Buang	mmo	3	1
+Mussau-Emira	emi	3	1
+Label	lbb	3	1
+Eastern Bolivian Guaraní	gui	3	15
+San Pedro Amuzgos Amuzgo	azg	3	1
+San Martín Quechua	qvs	3	1
+Lomwe	ngl	3	1
+Tol	jic	3	1
+Ambulas	abt	3	15
+Paicî	pri	3	1
+Wantoat	wnc	3	1
+Yosondúa Mixtec	mpm	3	1
+Northern Paiute	pao	3	1
+Nkonya	nko	3	1
+Tlahuitoltepec Mixe	mxp	3	1
+Sirionó	srq	3	1
+San Mateo Del Mar Huave	huv	3	1
+Awiyaana	auy	3	1
+Gofa	gof	3	15
+Batak Simalungun	bts	3	15
+Balantak	blz	3	1
+Chinese Pidgin English	cpi	3	1
+Zia	zia	3	1
+Uma	ppk	3	15
+Sursurunga	sgz	3	1
+Cabécar	cjp	3	1
+Kosena	kze	3	1
+Telefol	tlf	3	1
+Angor	agg	3	1
+Siriano	sri	3	1
+Cuiba	cui	3	1
+Kandawo	gam	3	1
+Tiruray	tiy	3	1
+Ramoaaina	rai	3	1
+Garrwa	wrk	3	1
+Chagatai	chg	3	1
+Nabak	naf	3	1
+Bedjond	bjv	3	1
+Sabu	hvn	3	15
+Ngindo	nnq	3	1
+Abua	abn	3	1
+Angaataha	agm	3	1
+Tampulma	tpm	3	1
+Golin	gvf	3	1
+Eastern Bontok	ebk	3	1
+Nggem	nbq	3	1
+Kobon	kpw	3	1
+Bakairí	bkq	3	1
+Fore	for	3	1
+Ocotepec Mixtec	mie	3	1
+Choapan Zapotec	zpc	3	1
+Western Apache	apw	3	1
+Cornish	cor	3	2
+Supyire Senoufo	spp	3	15
+Bargam	mlp	3	1
+Tabasco Chontal	chf	3	1
+Ma'di	mhi	3	1
+Kurukh	kru	3	1
+Folopa	ppo	3	1
+Kalenjin	kln	3	1
+Bunama	bdd	3	1
+Selepet	spl	3	1
+Ndau	ndc	3	1
+Ikwere	ikw	3	1
+Woun Meu	noa	3	15
+Phoenician	phn	3	1
+Amatlán Zapotec	zpo	3	1
+Baga Sitemu	bsp	3	1
+Kuku-Yalanji	gvn	3	1
+Guhu-Samane	ghs	3	1
+Odoodee	kkc	3	1
+Sochiapam Chinantec	cso	3	1
+Gumuz	guk	3	1
+Numanggang	nop	3	1
+Tawala	tbo	3	1
+Muinane	bmr	3	1
+Huambisa	hub	3	1
+Mochi	old	3	1
+Hixkaryána	hix	3	1
+Eastern Highland Otomi	otm	3	1
+Galibi Carib	car	3	1
+Ese	mcq	3	1
+Yele	yle	3	1
+Seimat	ssg	3	1
+Macuna	myy	3	1
+Apinayé	apn	3	1
+Ambai	amk	3	1
+Wedau	wed	3	1
+Bwanabwana	tte	3	1
+Rincón Zapotec	zar	3	1
+El Nayar Cora	crn	3	1
+San Juan Colorado Mixtec	mjc	3	1
+Central Cagayan Agta	agt	3	1
+Au	avt	3	1
+Dogrib	dgr	3	1
+Lacandon	lac	3	1
+Tahaggart Tamahaq	thv	3	1
+Northern Ndebele isiNdebele	nd	3	3
+Ubir	ubr	3	1
+Luguru	ruf	3	1
+Cofán	con	3	1
+Dutton World Speedwords	dws	3	1
+Lushootseed	lut	3	1
+Tangoa	tgp	3	1
+Mapos Buang	bzh	3	1
+Konkomba	xon	3	1
+Bola	bnp	3	1
+Walmajarri	wmt	3	1
+Luang	lex	3	1
+Michoacán Nahuatl	ncl	3	1
+Capanahua	kaq	3	1
+Yabem	jae	3	1
+Gen	gej	3	1
+Atatláhuca Mixtec	mib	3	1
+Casiguran Dumagat Agta	dgc	3	1
+Judeo-Tat	jdt	3	1
+San Jerónimo Tecóatl Mazatec	maa	3	1
+Nii	nii	3	1
+Bimin	bhl	3	1
+Hanga Hundi	wos	3	1
+Ewage-Notu	nou	3	1
+Tektiteko	ttc	3	1
+Paranan	prf	3	1
+Cayuga	cay	3	1
+Denya	anv	3	1
+Alune	alp	3	1
+Taupota	tpa	3	1
+Kire	geb	3	1
+Antankarana Malagasy	xmv	3	1
+Nyaneka	nyk	3	6
+Enxet	enx	3	1
+Kwanga	kwj	3	1
+Ozolotepec Zapotec	zao	3	1
+Lote	uvl	3	1
+Iduna	viv	3	1
+Tabo	knv	3	1
+Limbu	lif	3	1
+Nek	nif	3	1
+Rawa	rwo	3	15
+Saniyo-Hiyewe	sny	3	1
+Inga	inb	3	15
+Quioquitani-Quierí Zapotec	ztq	3	1
+Yawa	yva	3	1
+Silacayoapan Mixtec	mks	3	1
+Isthmus Mixe	mir	3	1
+Ankave	aak	3	1
+Kafa	kbr	3	1
+Paama	pma	3	1
+Oksapmin	opm	3	1
+Batad Ifugao	ifb	3	1
+Kala Lagaw Ya	mwp	3	1
+Piapoco	pio	3	1
+Iyo	nca	3	1
+Kandas	kqw	3	1
+Morokodo	mgc	3	1
+Kombio	xbi	3	1
+Subiya	sbs	3	1
+Tboli	tbl	3	1
+Yongkom	yon	3	1
+Sudest	tgo	3	1
+Patpatar	gfk	3	1
+Adzera	adz	3	1
+Koti	eko	3	1
+Herero Otjiherero	hz	3	4
+Salt-Yui	sll	3	1
+Jewish Palestinian Aramaic	jpa	3	1
+Bolinao	smk	3	1
+Wapishana	wap	3	1
+Comaltepec Chinantec	cco	3	1
+Weri	wer	3	1
+Urubú-Kaapor	urb	3	1
+North Tairora	tbg	3	1
+Cameroon Pidgin	wes	3	1
+Northern Pastaza Quichua	qvz	3	15
+Nobonob	gaw	3	1
+Waskia	wsk	3	1
+Bikol	bik	3	15
+Binandere	bhg	3	1
+Doromu-Koki	kqc	3	1
+Ömie	aom	3	1
+Central Puebla Nahuatl	ncx	3	1
+Merey	meq	3	1
+Wuvulu-Aua	wuv	3	1
+Manyawa	mny	3	1
+Sateré-Mawé	mav	3	1
+Komba	kpf	3	1
+Kupang Malay	mkn	3	15
+Lalana Chinantec	cnl	3	1
+Mwaghavul	sur	2	1
+Mag-antsi Ayta	sgb	2	1
+Central Melanau	mel	2	14
+Bissa	bib	2	1
+Alangan	alj	2	1
+Southwest Gbaya	gso	2	1
+Konni	kma	2	1
+Moose Cree	crm	2	1
+Nilamba	nim	2	1
+Tuwali Ifugao	ifk	2	1
+Lolo	llb	2	1
+Sar	mwm	2	1
+Dii	dur	2	1
+Bawm Chin	bgr	2	1
+Da'a Kaili	kzf	2	1
+Manikion	mnx	2	1
+Apatani	apt	2	1
+Muna	mnb	2	7
+Western Penan	pne	2	1
+Konyak Naga	nbe	2	1
+Kambera	xbr	2	1
+Tepo Krumen	ted	2	1
+Ngalum	szb	2	1
+Anal	anm	2	1
+Mentawai	mwv	2	1
+Achang	acn	2	1
+Sebat Bet Gurage	sgw	2	1
+Liberian English	lir	2	1
+Ngambay	sba	2	1
+Tetela	tll	2	28
+Yamba	yam	2	1
+Selee	snw	2	1
+Southern Nuni	nnw	2	1
+Berom	bom	2	1
+Coatzospan Mixtec	miz	2	1
+Guro	goa	2	1
+Doyayo	dow	2	1
+Manggarai	mqy	2	15
+Batak Dairi	btd	2	1
+Gulay	gvl	2	15
+Datooga	tcc	2	1
+Konai	kxw	2	1
+Diriku	diu	2	1
+Mewari	mtr	2	14
+Desano	des	2	1
+Baba Malay	mbf	2	1
+Nalca	nlc	2	1
+Southern Kalinga	ksc	2	1
+Lele (Chad)	lln	2	1
+Hawai'i Creole English	hwc	2	2
+Gikyode	acd	2	1
+Tenango Otomi	otn	2	1
+Amarasi	aaz	2	1
+Santo Domingo Albarradas Zapotec	zas	2	1
+Marba	mpg	2	1
+Chang Naga	nbc	2	1
+Eastern Highland Chatino	cly	2	1
+Pilagá	plg	2	1
+Zou	zom	2	1
+Lambya	lai	2	1
+Southern Samo	sbd	2	1
+Church Slavic	chu	2	3
+Keyagana	kyg	2	1
+Nung (Viet Nam)	nut	2	14
+Banggai	bgz	2	15
+Djimini Senoufo	dyi	2	1
+North Marquesan	mrq	2	1
+Nafaanra	nfr	2	1
+Kok Borok	trp	2	15
+Bwaidoka	bwd	2	1
+Wichí Lhamtés Vejoz	wlv	2	1
+Trinitario	trn	2	1
+Loma (Liberia)	lom	2	1
+Saluan	loe	2	1
+Kutep	kub	2	1
+Sinte Romani	rmo	2	1
+Kalanga	kck	2	1
+Sylheti	syl	2	15
+Abui	abz	2	1
+Makhuwa-Shirima	vmk	2	1
+Jukun Takum	jbu	2	1
+Thangal Naga	nki	2	1
+Jambi Malay	jax	2	14
+Ruund	rnd	2	10
+Cotabato Manobo	mta	2	1
+Mono (USA)	mnr	2	1
+Western Subanon	suc	2	1
+Zulgo-Gemzek	gnd	2	1
+Caluyanun	clu	2	1
+Sherpa	xsr	2	1
+Mayo	mfy	2	1
+Ila	ilb	2	1
+Musey	mse	2	1
+Tabassaran	tab	2	15
+Nawuri	naw	2	1
+Cameroon Mambila	mcu	2	1
+Eastern Oromo	hae	2	1
+Kom (India)	kmm	2	1
+Mada (Nigeria)	mda	2	1
+Sambal	xsb	2	1
+Wè Southern	gxx	2	1
+Northern Ngbandi	ngb	2	1
+Pemon	aoc	2	1
+South Giziga	giz	2	1
+Plapo Krumen	ktj	2	1
+Fipa	fip	2	14
+Lamkang	lmk	2	1
+Buhid	bku	2	1
+Bauzi	bvz	2	1
+Gude	gde	2	1
+Western Highland Purepecha	pua	2	1
+Zotung Chin	czt	2	1
+Njebi	nzb	2	1
+Avokaya	avu	2	1
+Erromintxela	emx	2	1
+Liberia Kpelle	xpe	2	1
+Sangtam Naga	nsa	2	1
+Abé	aba	2	1
+Mbay	myb	2	1
+Mwali Comorian	wlc	2	1
+South Fali	fal	2	1
+Etchemin	etc	2	1
+Severn Ojibwa	ojs	2	1
+Termanu	twu	2	15
+Enlhet	enl	2	1
+Mangareva	mrv	2	1
+Angal Heneng	akh	2	1
+Iraqw	irk	2	1
+Nyaturu	rim	2	1
+Kendayan	knx	2	1
+Huarijio	var	2	1
+Ladakhi	lbj	2	1
+Western Kayah	kyu	2	1
+Lama (Togo)	las	2	1
+Tangkhul Naga (India)	nmf	2	1
+Gbaya (Central African Republic)	gba	2	1
+Lule Sami	smj	2	2
+Una	mtg	2	1
+Pali	pli	2	1
+Jur Modo	bex	2	1
+Wichí Lhamtés Nocten	mtp	2	1
+Hanga	hag	2	1
+Wallisian	wls	2	9
+Kuranko	knk	2	1
+Northwest Gbaya	gya	2	1
+Nocte Naga	njb	2	1
+Alladian	ald	2	1
+Mikasuki	mik	2	1
+Southern Rengma Naga	nre	2	1
+Yuracare	yuz	2	1
+Mari (Russia)	chm	2	15
+Bana	bcw	2	1
+Haya	hay	2	1
+Sanumá	xsu	2	1
+Toraja-Sa'dan	sda	2	15
+Deg	mzw	2	1
+Arhuaco	arh	2	1
+Zeme Naga	nzm	2	1
+Lega-Shabunda	lea	2	1
+Nyabwa	nwb	2	1
+Attié	ati	2	1
+Phende	pem	2	1
+Shughni	sgh	2	1
+Ekajuk	eka	2	1
+Baniwa	bwi	2	1
+Bekwarra	bkv	2	1
+Wandala	mfi	2	1
+Mofu-Gudur	mif	2	1
+Mün Chin	mwq	2	1
+Santa María Quiegolani Zapotec	zpi	2	1
+San Martín Itunyoso Triqui	trq	2	1
+Iu Mien	ium	2	15
+Sumi Naga	nsm	2	1
+Fe'fe'	fmp	2	1
+North Alaskan Inupiatun	esi	2	1
+Ejagham	etu	2	1
+Adioukrou	adj	2	1
+Kumam	kdi	2	1
+Tembé	tqb	2	1
+Paasaal	sig	2	1
+Tsakhur	tkr	2	1
+Itawit	itv	2	1
+Tabaa Zapotec	zat	2	1
+San Pedro Quiatoni Zapotec	zpf	2	1
+Rotuman	rtm	2	1
+Meyah	mej	2	1
+Nomaande	lem	2	1
+Rukai	dru	2	1
+Maram Naga	nma	2	1
+Ngiemboon	nnh	2	1
+Tii	txq	2	1
+Bima	bhp	2	1
+Karakhanid	xqa	2	1
+Tsimané	cas	2	1
+Mano	mev	2	1
+Alacatlatzala Mixtec	mim	2	1
+Logo	log	2	1
+Kaba	ksp	2	1
+Nhengatu	yrl	2	3
+Louisiana Creole	lou	2	1
+Lachiguiri Zapotec	zpa	2	1
+Southern Bobo Madaré	bwq	2	1
+Koreguaje	coe	2	1
+Mising	mrg	2	1
+Central Malay	pse	2	8
+Tawallammat Tamajaq	ttq	2	1
+Vagla	vag	2	1
+Galo	adl	2	1
+Sierra Negra Nahuatl	nsu	2	1
+Siwu	akp	2	1
+Santa Teresa Cora	cok	2	1
+Luba-Katanga	lub	2	1
+Dargwa	dar	2	5
+Aimol	aim	2	1
+Kuo	xuo	2	1
+Kalagan	kqe	2	1
+Central Yupik	esu	2	1
+Hehe	heh	2	1
+Psikye	kvj	2	1
+Sri Lankan Creole Malay	sci	2	2
+Northern Dagara	dgi	2	1
+Kagulu	kki	2	1
+Phimbi	phm	2	1
+Buli (Ghana)	bwu	2	1
+Southwestern Tlaxiaco Mixtec	meh	2	1
+Ivbie North-Okpela-Arhe	atg	2	1
+Tumulung Sisaala	sil	2	1
+To'abaita	mlu	2	1
+Achagua	aca	2	1
+Nimadi	noe	2	14
+Aekyom	awi	2	1
+Sekpele	lip	2	1
+Ndogo	ndz	2	1
+Kuria	kuj	2	1
+Sa	sax	2	3
+Talinga-Bwisi	tlj	2	1
+Ayoreo	ayo	2	1
+Kedah Malay	meo	2	14
+Nivaclé	cag	2	1
+Basa-Gumna	bsl	2	1
+Ngombe (Democratic Republic of Congo)	ngc	2	1
+Bassa	bsq	2	1
+Chiripá	nhd	2	1
+Caló	rmq	2	1
+Kambaata	ktb	2	1
+Southern Birifor	biv	2	1
+Botolan Sambal	sbl	2	1
+Napu	npy	2	1
+Mabaan	mfz	2	1
+South Ucayali Ashéninka	cpy	2	1
+Miyobe	soy	2	1
+Ket	ket	2	1
+Ilianen Manobo	mbi	2	1
+Duri	mvp	2	1
+Wè Northern	wob	2	1
+Maring Naga	nng	2	1
+Southeastern Dinka	dks	2	1
+Pisaflores Tepehua	tpp	2	1
+Nauru	nau	2	1
+Rongmei Naga	nbu	2	1
+Lelemi	lef	2	1
+Rigwe	iri	2	1
+Rungus	drg	2	1
+Eastern Bru	bru	2	15
+Northern Khmer	kxm	2	1
+Chadian Arabic	shu	2	1
+Ndali	ndh	2	1
+Pere	pfe	2	1
+Takestani	tks	2	14
+Songomeno	soe	2	1
+Batak Angkola	akb	2	15
+Sankaran Maninka	msc	2	1
+Eastern Krahn	kqo	2	1
+Ngiti	niy	2	1
+Chothe Naga	nct	2	1
+Koorete	kqy	2	1
+Samba Leko	ndi	2	1
+Adele	ade	2	1
+Mafa	maf	2	1
+Isoko	iso	2	29
+Nandi	niq	2	15
+Northern Haida	hdn	2	1
+Moskona	mtj	2	1
+Southern Rincon Zapotec	zsr	2	1
+Yareni Zapotec	zae	2	1
+Mocoví	moc	2	1
+Dibabawon Manobo	mbd	2	1
+Pochuri Naga	npo	2	1
+Brazilian Sign Language	bzs	2	14
+Iyo'wujwa Chorote	crq	2	1
+Northern Rengma Naga	nnl	2	1
+Mündü	muh	2	1
+Tai	taw	2	2
+Dombe	dov	2	14
+Allar	all	2	5
+Cogui	kog	2	2
+Izon	ijc	2	1
+Havu	hav	2	1
+Dido	ddo	2	1
+Hanunoo	hnn	2	1
+Ndo	ndp	2	1
+Wejewa	wew	2	1
+Zyphe Chin	zyp	2	1
+Angami Naga	njm	2	1
+Tupuri	tui	2	1
+Avaric	ava	2	2
+Emberá-Chamí	cmi	2	1
+East Futuna	fud	2	1
+Culina	cul	2	1
+Kukna	kex	2	1
+Luwo	lwo	2	1
+Ajië	aji	2	1
+Anyin	any	2	1
+Tausug	tsg	2	15
+Kuwaataay	cwt	2	1
+Parkwa	pbi	2	1
+Kei	kei	2	1
+Central Tagbanwa	tgt	2	1
+Xaasongaxango	kao	2	1
+Kinaray-A	krj	2	15
+Cishingini	asg	2	1
+Aragonese	arg	2	2
+Bafia	ksf	2	1
+Pattani Malay	mfa	2	1
+Ifè	ife	2	1
+Yimchungru Naga	yim	2	1
+Calamian Tagbanwa	tbk	2	1
+Baka (South Sudan)	bdh	2	1
+Central Subanen	syb	2	1
+Ga'dang	gdg	2	1
+Namiae	nvm	2	1
+Kim	kia	2	1
+Kono (Sierra Leone)	kno	2	1
+Gidar	gid	2	1
+Apalaí	apy	2	1
+Kele (Democratic Republic of Congo)	khy	2	1
+Wahau Kenyah	whk	2	1
+Southern Toussian	wib	2	1
+Noon	snf	2	1
+Vengo	bav	2	1
+Dupaninan Agta	duo	2	1
+Mamanwa	mmn	2	1
+Chamacoco	ceg	2	1
+Toro So Dogon	dts	2	1
+Tikar	tik	2	1
+Bukar-Sadung Bidayuh	sdo	2	1
+Umiray Dumaget Agta	due	2	1
+Kanyok	kny	2	1
+Baybayanon	bvy	2	1
+Angloromani	rme	2	1
+San Salvador Kongo	kwy	2	10
+Ledo Kaili	lew	2	1
+Mongondow	mog	2	1
+Hassaniyya	mey	2	14
+Wayana	way	2	1
+Biete	biu	2	1
+Lahu Shi	lhi	2	1
+Iraya	iry	2	1
+Urak Lawoi'	urk	2	1
+Gogo	gog	2	1
+Tày	tyz	2	14
+Mundang	mua	2	1
+Eton (Cameroon)	eto	2	1
+Konso	kxc	2	1
+Mampruli	maw	2	1
+Iyojwa'ja Chorote	crt	2	1
+Isnag	isd	2	1
+Brooke's Point Palawano	plw	2	1
+Eastern Balochi	bgp	2	14
+Piaroa	pid	2	1
+Bete-Bendi	btt	2	1
+Medumba	byv	2	1
+Vidunda	vid	2	1
+Koya	kff	2	1
+Beembe	beq	2	1
+Mongo	lol	2	1
+Eastern Khumi Chin	cek	2	1
+Vute	vut	2	1
+Emberá-Catío	cto	2	1
+Luba-Katanga Tshiluba	lu	2	30
+Biatah Bidayuh	bth	2	1
+Santiago del Estero Quichua	qus	2	1
+Rajasthani	raj	2	14
+Wagi	fad	2	1
+Toura (Côte d'Ivoire)	neb	2	1
+Garo	grt	2	1
+Musgu	mug	2	1
+Monsang Naga	nmh	2	1
+Khmu	kjg	2	14
+Anufo	cko	2	1
+Baltic Romani	rml	2	1
+Yatee Zapotec	zty	2	1
+Izere	izr	2	1
+Esan	ish	2	1
+Ahanta	aha	2	1
+Masana	mcn	2	1
+Kukele	kez	2	1
+Hmar	hmr	2	1
+Ivatan	ivv	2	1
+Fang (Equatorial Guinea)	fan	2	1
+Hrangkhol	hra	2	1
+Matengo	mgv	2	1
+Khalaj	klj	2	1
+Dimasa	dis	2	1
+Giryama	nyf	2	1
+Nyishi	njz	2	1
+Liangmai Naga	njn	2	1
+Adi	adi	2	1
+Bassari	bsc	2	1
+Drents	drt	2	1
+Western Bolivian Guaraní	gnw	2	1
+Tuwuli	bov	2	1
+Abaza	abq	2	1
+Ibatan	ivb	2	1
+Kuwaa	blh	2	1
+Murle	mur	2	1
+Dan	dnj	2	1
+Machame	jmc	2	1
+Lyélé	lee	2	1
+Ma'anyan	mhy	2	1
+Kako	kkj	2	1
+Kusaal	kus	2	1
+Rade	rad	2	1
+Mayoyao Ifugao	ifu	2	1
+Sasak	sas	2	1
+Yanomámi	wca	2	1
+Yocoboué Dida	gud	2	1
+Kahua	agw	2	1
+Gor	gqr	2	1
+Tokelau	tkl	2	1
+Aghul	agx	2	1
+Interglossa	igs	2	1
+Cañar Highland Quichua	qxr	2	15
+Wayampi	oym	2	1
+Wancho Naga	nnp	2	1
+Yukpa	yup	2	1
+Bezhta	kap	2	1
+Taabwa	tap	2	1
+Ottawa	otw	2	1
+Mayangna	yan	2	1
+Keley-I Kallahan	ify	2	15
+Eastern Tawbuid	bnj	2	1
+Kokola	kzn	2	1
+Lampung Api	ljp	2	1
+Lendu	led	2	1
+Aché	guq	2	1
+Borgu Fulfulde	fue	2	1
+Nawdm	nmz	2	1
+Owa	stn	2	1
+Shambala	ksb	2	1
+Tarao Naga	tro	2	1
+Nkoya	nka	2	1
+Chambri	can	2	1
+Chokri Naga	nri	2	1
+Nigeria Mambila	mzk	2	1
+Mwan	moa	2	1
+Vunjo	vun	2	1
+Gbagyi	gbr	2	1
+Tabaru	tby	2	1
+Car Nicobarese	caq	2	1
+Angguruk Yali	yli	2	1
+Nasal	nsy	2	7
+Warao	wba	2	1
+Bembe	bmb	2	1
+Tobelo	tlb	2	1
+Woods Cree	cwd	2	1
+Phom Naga	nph	2	1
+Shi	shr	2	1
+Dakota	dak	2	1
+Komi	kom	2	2
+Luchazi	lch	2	1
+Qashqa'i	qxq	2	1
+Surjapuri	sjp	1	14
+Tunzu	dza	1	3
+Mexican Sign Language	mfs	1	3
+No linguistic content	zxx	1	14
+Venezuelan Sign Language	vsl	1	2
+Finnish Sign Language	fse	1	3
+Malasar	ymr	1	2
+Southern Luri	luz	1	14
+Kanauji	bjj	1	14
+Sabah Malay	msi	1	14
+Simte	smt	1	15
+Peruvian Sign Language	prl	1	3
+Colombian Sign Language	csn	1	4
+Argentine Sign Language	aed	1	4
+Chilean Sign Language	csg	1	3

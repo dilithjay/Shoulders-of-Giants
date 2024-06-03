@@ -1,0 +1,116 @@
+<svg height="600" width="1000" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 2/16/2024, 11:51:27 AM -->
+<rect height="600" width="1000" fill="#ffffff"></rect>
+<g transform="translate(12,18)">
+<g id="sankey_flows">
+<path id="flow5" d="M12 422.93459C217.39774 422.93459 217.39774 493.70829 422.79548 493.70829" fill="none" stroke-width="129.60809" stroke="#96c9fd" opacity="0.5"><title>Main → n: 50</title></path>
+<path id="flow0" d="M12 216.85773C217.39774 216.85773 217.39774 85.81714 422.79548 85.81714" fill="none" stroke-width="44.06675" stroke="#96c9fd" opacity="0.5"><title>Main → Data only: 17</title></path>
+<path id="flow3" d="M12 304.99123C217.39774 304.99123 217.39774 295.03922 422.79548 295.03922" fill="none" stroke-width="44.06675" stroke="#96c9fd" opacity="0.5"><title>Main → Data and Code only: 17</title></path>
+<path id="flow1" d="M12 259.6284C217.39774 259.6284 217.39774 168.95067 422.79548 168.95067" fill="none" stroke-width="41.47459" stroke="#96c9fd" opacity="0.5"><title>Main → Code only: 16</title></path>
+<path id="flow11" d="M434.79548 293.74314C640.19322 293.74314 640.19322 381.17274 845.59096 381.17274" fill="none" stroke-width="41.47459" stroke="#2BA02B" opacity="0.5"><title>Data and Code only → dcr: 16</title></path>
+<path id="flow6" d="M434.79548 63.78377v38.88243L845.59096 101.37008v-38.88243z" fill="#2BA02B" stroke-width="0.5" stroke="#2BA02B" opacity="0.5"><title>Data only → dr: 15</title></path>
+<path id="flow8" d="M434.79548 165.06243C640.19322 165.06243 640.19322 198.12918 845.59096 198.12918" fill="none" stroke-width="33.6981" stroke="#2BA02B" opacity="0.5"><title>Code only → cr: 13</title></path>
+<path id="flow4" d="M12 342.57758C217.39774 342.57758 217.39774 372.98842 422.79548 372.98842" fill="none" stroke-width="31.10594" stroke="#96c9fd" opacity="0.5"><title>Main → Data, Code, and Model: 12</title></path>
+<path id="flow13" d="M434.79548 372.98842C640.19322 372.98842 640.19322 506.78088 845.59096 506.78088" fill="none" stroke-width="31.10594" stroke="#2BA02B" opacity="0.5"><title>Data, Code, and Model → dcmr: 12</title></path>
+<path id="flow9" d="M434.79548 185.79972C640.19322 185.79972 640.19322 253.22933 845.59096 253.22933" fill="none" stroke-width="7.77649" stroke="#D52828" opacity="0.5"><title>Code only → cnr: 3</title></path>
+<path id="flow7" d="M434.79548 105.25836C640.19322 105.25836 640.19322 134.32511 845.59096 134.32511" fill="none" stroke-width="5.18432" stroke="#D52828" opacity="0.5"><title>Data only → dnr: 2</title></path>
+<path id="flow2" d="M12 281.66177C217.39774 281.66177 217.39774 231.3469 422.79548 231.3469" fill="none" stroke-width="2.59216" stroke="#96c9fd" opacity="0.5"><title>Main → Model only: 1</title></path>
+<path id="flow10" d="M434.79548 231.3469C640.19322 231.3469 640.19322 310.77649 845.59096 310.77649" fill="none" stroke-width="2.59216" stroke="#2BA02B" opacity="0.5"><title>Model only → mr: 1</title></path>
+<path id="flow12" d="M434.79548 315.77651C640.19322 315.77651 640.19322 437.56898 845.59096 437.56898" fill="none" stroke-width="2.59216" stroke="#D52828" opacity="0.5"><title>Data and Code only → dcnr: 1</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="194.82435" height="292.91429" width="12" fill="#96c9fd" fill-opacity="1"><title>Main:
+113</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="422.79548" y="63.78377" height="44.06675" width="12" fill="#96c9fd" fill-opacity="1"><title>Data only:
+17</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="422.79548" y="148.21338" height="41.47459" width="12" fill="#96c9fd" fill-opacity="1"><title>Code only:
+16</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="422.79548" y="230.05082" height="2.59216" width="12" fill="#96c9fd" fill-opacity="1"><title>Model only:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="422.79548" y="273.00584" height="44.06675" width="12" fill="#96c9fd" fill-opacity="1"><title>Data and Code only:
+17</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="422.79548" y="357.43545" height="31.10594" width="12" fill="#96c9fd" fill-opacity="1"><title>Data, Code, and Model:
+12</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="422.79548" y="428.90425" height="129.60809" width="12" fill="#800080" fill-opacity="1"><title>n:
+50</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="845.59096" y="3.48766" height="38.88243" width="12" fill="#2BA02B" fill-opacity="1" transform="translate(0,59)"><title>dr:
+15</title></rect>
+</g>
+<g class="node">
+<rect id="r8" class="for_r8" x="845.59096" y="82.73294" height="5.18432" width="12" fill="#D52828" fill-opacity="1" transform="translate(0,49.00001)"><title>dnr:
+2</title></rect>
+</g>
+<g class="node">
+<rect id="r9" class="for_r9" x="845.59096" y="128.28013" height="33.6981" width="12" fill="#2BA02B" fill-opacity="1" transform="translate(0,53)"><title>cr:
+13</title></rect>
+</g>
+<g class="node">
+<rect id="r10" class="for_r10" x="845.59096" y="202.34109" height="7.77649" width="12" fill="#D52828" fill-opacity="1" transform="translate(0,47)"><title>cnr:
+3</title></rect>
+</g>
+<g class="node">
+<rect id="r11" class="for_r11" x="845.59096" y="250.48043" height="2.59216" width="12" fill="#2BA02B" fill-opacity="1" transform="translate(0,58.99998)"><title>mr:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r12" class="for_r12" x="845.59096" y="293.43545" height="41.47459" width="12" fill="#2BA02B" fill-opacity="1" transform="translate(0,67)"><title>dcr:
+16</title></rect>
+</g>
+<g class="node">
+<rect id="r13" class="for_r13" x="845.59096" y="375.27289" height="2.59216" width="12" fill="#D52828" fill-opacity="1" transform="translate(0,61)"><title>dcnr:
+1</title></rect>
+</g>
+<g class="node">
+<rect id="r14" class="for_r14" x="845.59096" y="418.22791" height="31.10594" width="12" fill="#2BA02B" fill-opacity="1" transform="translate(0,73)"><title>dcmr:
+12</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="28px" fill="#000000">
+<rect id="label0_bg" class="for_r0" x="14.85731" y="318.36148" width="128.90225" height="45.12" rx="7" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="start" x="23.02106" y="341.2815" font-weight="400" font-size="32.2px" dy="10.44">113 <tspan font-weight="400" font-size="23.8px">Main</tspan></text>
+<rect id="label1_bg" class="for_r1" x="437.65275" y="62.89715" width="162.43548" height="45.12" rx="7" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="start" x="445.81654" y="85.81714" font-weight="400" font-size="32.2px" dy="10.44">17 <tspan font-weight="400" font-size="23.8px">Data only</tspan></text>
+<rect id="label2_bg" class="for_r2" x="437.65275" y="146.03068" width="169.05951" height="45.12" rx="7" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="start" x="445.81654" y="168.95067" font-weight="400" font-size="32.2px" dy="10.44">16 <tspan font-weight="400" font-size="23.8px">Code only</tspan></text>
+<rect id="label3_bg" class="for_r3" x="437.65275" y="208.42689" width="159.08508" height="45.12" rx="7" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="start" x="445.81654" y="231.3469" font-weight="400" font-size="32.2px" dy="10.44">1 <tspan font-weight="400" font-size="23.8px">Model only</tspan></text>
+<rect id="label4_bg" class="for_r4" x="437.65275" y="272.1192" width="272.26642" height="45.12" rx="7" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="start" x="445.81654" y="295.03922" font-weight="400" font-size="32.2px" dy="10.44">17 <tspan font-weight="400" font-size="23.8px">Data and Code only</tspan></text>
+<rect id="label5_bg" class="for_r5" x="437.65275" y="350.06842" width="306.56476" height="45.12" rx="7" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="start" x="445.81654" y="372.98842" font-weight="400" font-size="32.2px" dy="10.44">12 <tspan font-weight="400" font-size="23.8px">Data, Code, and Model</tspan></text>
+<rect id="label6_bg" class="for_r6" x="437.65275" y="470.7883" width="75.02725" height="45.12" rx="7" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="start" x="445.81654" y="493.70829" font-weight="400" font-size="32.2px" dy="10.44">50 <tspan font-weight="400" font-size="23.8px">n</tspan></text>
+<rect id="label7_bg" class="for_r7" x="860.44825" y="0.00887" width="83.8262" height="45.12" rx="7" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,59)"></rect>
+<text id="label7" class="for_r7" text-anchor="start" x="868.61202" y="22.92887" font-weight="400" font-size="32.2px" dy="10.44" transform="translate(0,59)">15 <tspan font-weight="400" font-size="23.8px">dr</tspan></text>
+<rect id="label8_bg" class="for_r8" x="860.44825" y="62.40511" width="79.16263" height="45.12" rx="7" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,49.00001)"></rect>
+<text id="label8" class="for_r8" text-anchor="start" x="868.61202" y="85.32511" font-weight="400" font-size="32.2px" dy="10.44" transform="translate(0,49.00001)">2 <tspan font-weight="400" font-size="23.8px">dnr</tspan></text>
+<rect id="label9_bg" class="for_r9" x="860.44825" y="122.20918" width="82.48977" height="45.12" rx="7" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,53)"></rect>
+<text id="label9" class="for_r9" text-anchor="start" x="868.61202" y="145.12918" font-weight="400" font-size="32.2px" dy="10.44" transform="translate(0,53)">13 <tspan font-weight="400" font-size="23.8px">cr</tspan></text>
+<rect id="label10_bg" class="for_r10" x="860.44825" y="183.30931" width="77.8262" height="45.12" rx="7" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,47)"></rect>
+<text id="label10" class="for_r10" text-anchor="start" x="868.61202" y="206.22933" font-weight="400" font-size="32.2px" dy="10.44" transform="translate(0,47)">3 <tspan font-weight="400" font-size="23.8px">cnr</tspan></text>
+<rect id="label11_bg" class="for_r11" x="860.44825" y="228.8565" width="72.51541" height="45.12" rx="7" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,58.99998)"></rect>
+<text id="label11" class="for_r11" text-anchor="start" x="868.61202" y="251.77651" font-weight="400" font-size="32.2px" dy="10.44" transform="translate(0,58.99998)">1 <tspan font-weight="400" font-size="23.8px">mr</tspan></text>
+<rect id="label12_bg" class="for_r12" x="860.44825" y="291.25271" width="95.72616" height="45.12" rx="7" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,67)"></rect>
+<text id="label12" class="for_r12" text-anchor="start" x="868.61202" y="314.17274" font-weight="400" font-size="32.2px" dy="10.44" transform="translate(0,67)">16 <tspan font-weight="400" font-size="23.8px">dcr</tspan></text>
+<rect id="label13_bg" class="for_r13" x="860.44825" y="353.64895" width="91.06265" height="45.12" rx="7" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,61)"></rect>
+<text id="label13" class="for_r13" text-anchor="start" x="868.61202" y="376.56898" font-weight="400" font-size="32.2px" dy="10.44" transform="translate(0,61)">1 <tspan font-weight="400" font-size="23.8px">dcnr</tspan></text>
+<rect id="label14_bg" class="for_r14" x="860.44825" y="410.86087" width="115.55179" height="45.12" rx="7" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0" transform="translate(0,73)"></rect>
+<text id="label14" class="for_r14" text-anchor="start" x="868.61202" y="433.78088" font-weight="400" font-size="32.2px" dy="10.44" transform="translate(0,73)">12 <tspan font-weight="400" font-size="23.8px">dcmr</tspan></text>
+</g>
+</g></svg>

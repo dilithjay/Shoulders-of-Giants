@@ -1,0 +1,116 @@
+lang class,year,data,code,model
+0,2017,used others' data,build new code and use others' as well,used someone's model but trained theirs as well
+0,2017,used others' data,build new code and use others' as well,used someon'e model
+0,2018,used others' data,wrote their own code,trained their own model
+0,2018,used others' data,build new code and use others' as well,didnt use model
+0,2018,introduce new data,build new code and use others' as well,used someon'e model
+0,2019,introduce new data,build new code and use others' as well,trained their own model
+0,2019,used others' data,build new code and use others' as well,used someone's model but trained theirs as well
+0,2019,used others' data,build new code and use others' as well,used someon'e model
+0,2020,used others' data,build new code and use others' as well,didnt use model
+0,2020,introduce new data,build new code and use others' as well,used someone's model but trained theirs as well
+0,2020,introduce new data,build new code and use others' as well,trained their own model
+0,2021,used others' data,build new code and use others' as well,used someone's model but trained theirs as well
+0,2021,used others' data,based-on/modified someone's code,used someone's model but trained theirs as well
+0,2021,introduce new data,build new code and use others' as well,used someon'e model
+0,2022,introduce new data,build new code and use others' as well,used someon'e model
+0,2022,used others' data,used someone's code,used someon'e model
+0,2022,used others' but introduce their own part,wrote their own code,trained their own model
+0,2023,extended soneone's data,build new code and use others' as well,trained their own model
+0,2023,used others' data,wrote their own code,used someone's model but trained theirs as well
+0,2023,introduce new data,build new code and use others' as well,used someon'e model
+1,2018,introduce new data,build new code and use others' as well,trained their own model
+1,2018,used others' data,wrote their own code,trained their own model
+1,2018,used others' data,build new code and use others' as well,used someone's model but trained theirs as well
+1,2019,used others' data,based-on/modified someone's code,used someon'e model
+1,2020,introduce new data,build new code and use others' as well,trained their own model
+1,2020,extended soneone's data,build new code and use others' as well,trained their own model
+1,2020,used others' data,build new code and use others' as well,trained their own model
+1,2021,used others' but introduce their own part,based-on/modified someone's code,trained their own model
+1,2022,used others' but introduce their own part,build new code and use others' as well,used someone's model but trained theirs as well
+1,2022,used others' data,wrote their own code,didnt use model
+1,2022,introduce new data,build new code and use others' as well,didnt use model
+1,2022,introduce new data,wrote their own code,used someon'e model
+1,2022,introduce new data,based-on/modified someone's code,used someone's model but trained theirs as well
+1,2023,introduce new data,did not use code,used someone's model but trained theirs as well
+1,2023,introduce new data,wrote their own code,trained their own model
+2,2016,introduce new data,used someone's code,used someone's model but trained theirs as well
+2,2016,used others' data,based-on/modified someone's code,trained their own model
+2,2017,introduce new data,wrote their own code,didnt use model
+2,2017,used others' data,wrote their own code,used someon'e model
+2,2018,used others' but introduce their own part,based-on/modified someone's code,didnt use model
+2,2018,used others' data,build new code and use others' as well,trained their own model
+2,2018,introduce new data,did not use code,didnt use model
+2,2019,introduce new data,wrote their own code,trained their own model
+2,2019,used others' data,build new code and use others' as well,used someone's model but trained theirs as well
+2,2019,introduce new data,based-on/modified someone's code,trained their own model
+2,2020,introduce new data,based-on/modified someone's code,trained their own model
+2,2020,used others' but introduce their own part,wrote their own code,used someone's model but trained theirs as well
+2,2020,used others' data,build new code and use others' as well,trained their own model
+2,2021,introduce new data,build new code and use others' as well,used someone's model but trained theirs as well
+2,2021,used others' data,based-on/modified someone's code,trained their own model
+2,2022,used others' data,based-on/modified someone's code,used someone's model but trained theirs as well
+2,2022,introduce new data,based-on/modified someone's code,trained their own model
+2,2022,introduce new data,based-on/modified someone's code,trained their own model
+2,2023,introduce new data,build new code and use others' as well,trained their own model
+2,2023,introduce new data,based-on/modified someone's code,trained their own model
+3,2015,used others' data,build new code and use others' as well,didnt use model
+3,2016,introduce new data,build new code and use others' as well,trained their own model
+3,2016,introduce new data,based-on/modified someone's code,trained their own model
+3,2017,introduce new data,based-on/modified someone's code,trained their own model
+3,2017,used others' but introduce their own part,build new code and use others' as well,used someone's model but trained theirs as well
+3,2018,introduce new data,build new code and use others' as well,trained their own model
+3,2018,used others' data,build new code and use others' as well,trained their own model
+3,2019,used others' data,build new code and use others' as well,trained their own model
+3,2019,used others' data,build new code and use others' as well,trained their own model
+3,2019,extended soneone's data,wrote their own code,trained their own model
+3,2020,used others' but introduce their own part,build new code and use others' as well,used someon'e model
+3,2020,used others' data,build new code and use others' as well,used someon'e model
+3,2020,used others' data,build new code and use others' as well,used someone's model but trained theirs as well
+3,2021,introduce new data,build new code and use others' as well,used someon'e model
+3,2021,used others' data,build new code and use others' as well,used someon'e model
+3,2022,introduce new data,based-on/modified someone's code,used someon'e model
+3,2022,used others' data,build new code and use others' as well,used someone's model but trained theirs as well
+3,2022,used others' data,based-on/modified someone's code,trained their own model
+3,2023,introduce new data,build new code and use others' as well,trained their own model
+3,2023,used others' but introduce their own part,wrote their own code,used someon'e model
+4,2015,used others' data,wrote their own code,trained their own model
+4,2015,used others' data,build new code and use others' as well,used someone's model but trained theirs as well
+4,2016,used others' data,build new code and use others' as well,used someon'e model
+4,2016,introduce new data,used someone's code,didnt use model
+4,2017,used others' data,build new code and use others' as well,trained their own model
+4,2017,used others' data,wrote their own code,used someone's model but trained theirs as well
+4,2018,extended soneone's data,build new code and use others' as well,used someone's model but trained theirs as well
+4,2018,used others' data,used someone's code,didnt use model
+4,2019,introduce new data,used someone's code,used someon'e model
+4,2019,introduce new data,did not use code,didnt use model
+4,2020,used others' data,build new code and use others' as well,used someon'e model
+4,2020,used others' data,build new code and use others' as well,trained their own model
+4,2020,introduce new data,build new code and use others' as well,used someon'e model
+4,2021,used others' data,build new code and use others' as well,used someone's model but trained theirs as well
+4,2021,introduce new data,build new code and use others' as well,used someon'e model
+4,2021,introduce new data,used someone's code,used someon'e model
+4,2022,introduce new data,build new code and use others' as well,used someone's model but trained theirs as well
+4,2022,introduce new data,build new code and use others' as well,used someone's model but trained theirs as well
+4,2023,extended soneone's data,build new code and use others' as well,trained their own model
+4,2023,introduce new data,wrote their own code,trained their own model
+5,2015,introduce new data,build new code and use others' as well,used someone's model but trained theirs as well
+5,2015,used others' data,build new code and use others' as well,trained their own model
+5,2016,extended soneone's data,did not use code,didnt use model
+5,2016,used others' data,used someone's code,used someone's model but trained theirs as well
+5,2017,used others' data,build new code and use others' as well,used someon'e model
+5,2017,used others' data,based-on/modified someone's code,trained their own model
+5,2018,used others' data,build new code and use others' as well,trained their own model
+5,2018,introduce new data,build new code and use others' as well,extended someone's model
+5,2018,used others' data,build new code and use others' as well,trained their own model
+5,2019,used others' data,wrote their own code,trained their own model
+5,2019,used others' data,build new code and use others' as well,used someone's model but trained theirs as well
+5,2020,used others' but introduce their own part,build new code and use others' as well,trained their own model
+5,2020,used others' data,build new code and use others' as well,used someone's model but trained theirs as well
+5,2020,used others' data,build new code and use others' as well,used someone's model but trained theirs as well
+5,2021,introduce new data,build new code and use others' as well,used someone's model but trained theirs as well
+5,2021,introduce new data,did not use code,used someon'e model
+5,2022,introduce new data,build new code and use others' as well,used someone's model but trained theirs as well
+5,2022,used others' but introduce their own part,build new code and use others' as well,used someone's model but trained theirs as well
+5,2023,introduce new data,based-on/modified someone's code,used someon'e model
+5,2023,introduce new data,build new code and use others' as well,used someon'e model

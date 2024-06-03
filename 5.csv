@@ -1,0 +1,91 @@
+language,data released?,code released?,model released?,tool released?
+Arabic,y,NOT applicable,y,NOT applicable
+,NOT applicable,y,y,NOT applicable
+,NOT applicable,y,NOT applicable,NOT applicable
+,y,y,y,NOT applicable
+,NOT applicable,y,NOT applicable,NOT applicable
+,NOT applicable,y,NOT applicable,NOT applicable
+,y,NOT applicable,NOT applicable,NOT applicable
+,y,NOT applicable,NOT applicable,NOT applicable
+,y,NOT applicable,NOT applicable,NOT applicable
+,NOT applicable,y,NOT applicable,NOT applicable
+,y,NOT applicable,NOT applicable,NOT applicable
+,,,,
+English,y,y,NOT applicable,NOT applicable
+,y,NOT applicable,NOT applicable,NOT applicable
+,y,NOT applicable,NOT applicable,NOT applicable
+,y,NOT applicable,NOT applicable,NOT applicable
+,y,NOT applicable,NOT applicable,NOT applicable
+,NOT applicable,y,NOT applicable,NOT applicable
+,NOT applicable,y,NOT applicable,NOT applicable
+,NOT applicable,n,NOT applicable,NOT applicable
+,NOT applicable,y,y,NOT applicable
+,y,NOT applicable,NOT applicable,NOT applicable
+,NOT applicable,y,NOT applicable,NOT applicable
+,,,,
+French,NOT applicable,y,NOT applicable,NOT applicable
+,NOT applicable,NOT applicable,y,NOT applicable
+,y,NOT applicable,NOT applicable,NOT applicable
+,y,NOT applicable,NOT applicable,NOT applicable
+,y,NOT applicable,NOT applicable,NOT applicable
+,NOT applicable,y,NOT applicable,NOT applicable
+,y,NOT applicable,NOT applicable,NOT applicable
+,NOT applicable,n,NOT applicable,NOT applicable
+,y,NOT applicable,NOT applicable,NOT applicable
+,NOT applicable,NOT applicable,NOT applicable,y
+,NOT applicable,y,NOT applicable,NOT applicable
+,,,,
+German,NOT applicable,y,y,NOT applicable
+,NOT applicable,y,NOT applicable,NOT applicable
+,y,y,y,NOT applicable
+,NOT applicable,y,NOT applicable,NOT applicable
+,y,NOT applicable,NOT applicable,NOT applicable
+,y,NOT applicable,NOT applicable,NOT applicable
+,NOT applicable,y,NOT applicable,NOT applicable
+,y,NOT applicable,NOT applicable,NOT applicable
+,n,NOT applicable,NOT applicable,NOT applicable
+,y,y,y,NOT applicable
+,y,y,NOT applicable,NOT applicable
+,,,,
+Japaneese,y,y,NOT applicable,NOT applicable
+,n,NOT applicable,NOT applicable,NOT applicable
+,y,NOT applicable,NOT applicable,NOT applicable
+,y,NOT applicable,NOT applicable,y
+,NOT applicable,y,NOT applicable,NOT applicable
+,NOT applicable,y,NOT applicable,NOT applicable
+,NOT applicable,NOT applicable,NOT applicable,y
+,y,NOT applicable,NOT applicable,NOT applicable
+,y,NOT applicable,NOT applicable,NOT applicable
+,NOT applicable,y,NOT applicable,NOT applicable
+,y,NOT applicable,NOT applicable,NOT applicable
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+Chinese,y,y,NOT applicable,NOT applicable
+,y,y,NOT applicable,NOT applicable
+,NOT applicable,y,y,NOT applicable
+,NOT applicable,y,NOT applicable,NOT applicable
+,y,y,NOT applicable,NOT applicable
+,y,y,NOT applicable,NOT applicable
+,y,y,NOT applicable,NOT applicable
+,y,y,NOT applicable,NOT applicable
+,y,y,y,NOT applicable
+,NOT applicable,n,NOT applicable,n
+,NOT applicable,y,NOT applicable,NOT applicable
+,,,,
+Spanish,y,y,n,NOT applicable
+,y,y,NOT applicable,NOT applicable
+,y,NOT applicable,NOT applicable,NOT applicable
+,y,y,n,NOT applicable
+,y,NOT applicable,NOT applicable,NOT applicable
+,NOT applicable,y,y,NOT applicable
+,y,y,y,NOT applicable
+,NOT applicable,NOT applicable,y,NOT applicable
+,y,y,NOT applicable,NOT applicable
+,n,y,NOT applicable,NOT applicable
+,y,y,y,NOT applicable
