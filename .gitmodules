@@ -1,0 +1,4 @@
+[submodule "LangClasses"]
+	path = LangClasses
+	url = ./
+	branch = main
