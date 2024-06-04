@@ -2,3 +2,6 @@
 	path = LangClasses
 	url = ./
 	branch = main
+[submodule "Some-Languages-are-More-Equal-than-Others"]
+	path = Some-Languages-are-More-Equal-than-Others
+	url = https://github.com/NisansaDdS/Some-Languages-are-More-Equal-than-Others.git
